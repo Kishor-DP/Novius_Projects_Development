@@ -1,0 +1,53 @@
+USE [HBDDB]
+GO
+/****** Object:  Trigger [dbo].[trgAfterInsert]    Script Date: 05-07-2024 01:41:55 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+ALTER TRIGGER [dbo].[trgAfterInsert] ON [dbo].[tblAlarms]
+AFTER INSERT
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    INSERT INTO [dbo].[DeletedRowsAudit] (
+        [intAlarmId],
+        [intTrainId],
+        [intTempLogId],
+        [intAlarm_WarningID],
+        [intAxelNo],
+        [NvcharCoachNo],
+        [IntCoachPosition],
+        [NvcharSide],
+        [decTemperature],
+        [ynAcknowledged],
+        [nvcharFindings],
+        [nvcharActionTaken],
+        [nvcharDescription],
+        [dtDateofCreation],
+        [dtDateofModification],
+        [ynDeleted],
+        [DeletedAt]
+    )
+    SELECT 
+        [intAlarmId],
+        [intTrainId],
+        [intTempLogId],
+        [intAlarm_WarningID],
+        [intAxelNo],
+        [NvcharCoachNo],
+        [IntCoachPosition],
+        [NvcharSide],
+        [decTemperature],
+        [ynAcknowledged],
+        [nvcharFindings],
+        [nvcharActionTaken],
+        [nvcharDescription],
+        [dtDateofCreation],
+        [dtDateofModification],
+        [ynDeleted],
+        GETDATE() AS [DeletedAt]
+    FROM INSERTED;
+END;

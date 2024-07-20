@@ -1,0 +1,8 @@
+{
+  
+  
+  "url":"rtsp://admin:ntipl12345@192.168.1.108:554",
+  "waterCameraUrl":"rtsp://admin:ntipl12345@192.168.1.121:554",
+  "camip":"192.168.1.108"
+  
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "intAlarm_WarningID": 1,
+        "IntStationId": 1,
+        "intBogiTypeId": 1,
+        "nvcharTypeOfBogi": "ICF",
+        "decAlarmTemprature": 30.0,
+        "decWarningTemprature": 20.0,
+        "nvcharErrorCode": "AAT",
+        "nvcharDescription": "Absolute Axle Temperature",
+        "dtDateofCreation": null,
+        "dtDateofModification": "2021-10-04 17:35:26",
+        "ynDeleted": false
+    },
+    {
+        "intAlarm_WarningID": 2,
+        "IntStationId": 1,
+        "intBogiTypeId": 2,
+        "nvcharTypeOfBogi": "LHB",
+        "decAlarmTemprature": 30.0,
+        "decWarningTemprature": 20.0,
+        "nvcharErrorCode": "AAT",
+        "nvcharDescription": "Absolute Axle Temperature",
+        "dtDateofCreation": null,
+        "dtDateofModification": "2021-10-04 17:34:33",
+        "ynDeleted": false
+    },
+    {
+        "intAlarm_WarningID": 3,
+        "IntStationId": 1,
+        "intBogiTypeId": 3,
+        "nvcharTypeOfBogi": "Wagon",
+        "decAlarmTemprature": 30.0,
+        "decWarningTemprature": 20.0,
+        "nvcharErrorCode": "AAT",
+        "nvcharDescription": "Absolute Axle Temperature",
+        "dtDateofCreation": null,
+        "dtDateofModification": "2019-11-20 10:39:31",
+        "ynDeleted": false
+    }
+]

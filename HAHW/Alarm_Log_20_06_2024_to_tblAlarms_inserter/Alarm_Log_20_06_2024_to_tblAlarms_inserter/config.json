@@ -1,0 +1,21 @@
+{
+  "database": {
+    "driver": "{SQL Server}",
+    "server": "DESKTOP-26IR701",
+    "database_name": "HBDDB",
+    "username": "sa",
+    "password": "sa"
+  },
+
+  
+    "cloud_database": {
+    "driver": "{SQL Server}",
+    "server": "103.120.176.21",
+    "database_name": "noviusr1_1000_HAHW_TEST-BENCH-SYSTEM",
+    "username": "noviusr1_noviusr1",
+    "password": "Yoj9IbR0y#M%"
+}
+}
+
+
+

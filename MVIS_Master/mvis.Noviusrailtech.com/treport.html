@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>Novius RailTech MVIS</title>
+<head>
+    <link rel="shortcut icon" type="x-icon" href="images/top-icon - Copy.jpeg">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+   @import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500&family=Secular+One&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+  @import url('https://cdn-uicons.flaticon.com/2.1.0/uicons-regular-rounded/css/uicons-regular-rounded.css');
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #e9e9e9!important;
+        }
+
+        header {
+            
+            color: white;
+            padding: 0px;
+            text-align: center;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 3px;
+            background:linear-gradient(to top, rgb(3, 3, 3), rgb(108, 109, 109));
+        }
+        .footer{
+    display: grid;
+    grid-template-columns: repeat(3 ,25% 50% 25%);
+    background: white;
+}
+#textboxess {
+            width: 100%;
+            height: 60px;
+            position: relative;
+            overflow: hidden;
+        }
+        #imagex {
+            width: 100%;
+            height: 58px;
+          
+        }
+        #textboxesss {
+            width: 100%;
+            height: 60px;
+            position: absolute;
+            top: 0%;
+        }
+        #imagea {
+            width: 50%;
+            height: 50px;
+          
+        }
+        #imageb {
+    width: 8%;
+    height: 50px;
+   
+}
+#texte2 {
+    margin-top: 1%;
+    margin-left: 50%;
+    color: #fff;
+    font-size: 45px;
+    font-weight: 700;
+}
+#textboxes {
+            width: 100%;
+            height: 60px;
+            position: relative;
+            overflow: hidden;
+           
+        }
+        #image1 {
+            width: 100%;
+            height: 100%;
+           
+        }
+        .textbox-container {
+            position: absolute;
+            top: 0%;
+            /*left: 50%;
+            transform: translate(-50%, -50%);*/
+            width: 200px;
+        }
+        #textboxes2 {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        #image4 {
+            width: 100%;
+            height: 58px;
+            border-radius: 10px; 
+        }
+        .textbox-container1 {
+            position: absolute;
+            top: 20%;
+            left: 34%;
+            width: 100%;
+            display: flex;
+        }
+        #textboxes1 {
+            width: 35px;
+            height: 100%;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        #image2 {
+            width: 35px;
+    height: 35px;
+    border-radius: 10px 
+        }
+        #texte {
+    margin-top: 9px;
+    align-items: center;
+    color: #fff;
+    font-size: 20px; /* Adjust the font size as needed */
+    font-weight: 700;
+}
+.save {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+background: linear-gradient(to top, rgb(3, 3, 3), rgb(108, 109, 109));
+}
+.flex-container {
+            display: flex;
+        }
+        #textboxes3 {
+            width: 30%;
+            height: 100%;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        #image3 {
+            width: 80%;
+            height: 100%;
+            border-radius: 10px; 
+        }
+        .right{
+    display: flex;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    
+}
+#b3{
+    background: #3471be;
+    color: #fff;
+    width: 30px;
+    font-size: medium;
+    cursor: pointer;
+    height: 30px;
+    padding: 5px 4px;
+    margin-top: 1px;
+}
+#b3:hover{
+    background:linear-gradient(to top, rgb(1, 71, 193), rgb(81, 125, 244));
+}
+.dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 142px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+        a {
+      text-decoration: none;
+    }
+    button {
+            font-size: 13px;
+            height: 35px;
+            width: 135px;
+            color: #fff;
+            border: 0px;
+      
+        }
+
+        button:hover {
+    background:linear-gradient(to top, rgb(212, 3, 3), rgb(248, 166, 166));
+          color:white;
+        }
+        .f1head{
+            background: linear-gradient(to top, rgb(232 232 232), rgb(236 236 236));
+            color: rgb(0, 0, 0);
+            padding: 6px;
+            text-align: left;
+            font-family: 'Rubik', sans-serif;
+            font-size: x-small;
+            text-transform: uppercase;
+        }
+        .arrow-down {
+            width: 0;
+            height: 0;
+            border-left: 8px solid transparent;
+            border-right: 8px solid transparent;
+            border-top: 8px solid black;
+            position: absolute;
+            top: 50%;
+            right: 10px;
+            transform: translateY(-50%);
+        }
+        .dropdown {
+    position: relative;
+    display: inline-block;
+    
+}
+.dropdown button {
+            cursor: pointer;
+            background:linear-gradient(to top, rgb(3, 3, 3), rgb(108, 109, 109));
+        }
+        .dropdown button:hover{
+            background:linear-gradient(to top, rgb(212, 3, 3), rgb(248, 166, 166));
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 142px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #f1f1f1;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+        .vi {
+    display: inline-block;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: 'Rubik', sans-serif;
+    font-size: x-small;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#textboxesssm {
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    top: 0%;
+    display: flex;
+    justify-content: center;
+}
+
+/* ------------------------------- */
+
+.container {
+            width:-webkit-fill-available;
+      
+            display: grid;
+        }
+
+        .box {
+           
+            color: rgb(0, 0, 0);
+       
+            padding: 10px;
+            height: 80px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);    
+            display: inline-block;
+            justify-content: center;
+            gap: 20px;
+         
+}
+        
+
+        .filter-box {
+            display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+    font-size: larger;
+        }
+        .filter-boxx {
+            display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    justify-content: space-evenly;
+        }
+        .date-selection {
+            margin-right: 20px;
+        }
+
+        .filter-btn {
+            background-color: #727272;
+            color: rgb(255, 255, 255);
+       
+            border: none;
+            cursor: pointer;
+          
+            
+        }
+
+        .word-box {
+            background-color: #e5e3e3;
+            color: rgb(0, 0, 0);
+          height: 230px;
+          overflow:auto ;
+          background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
+        }
+
+        .table-box {
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #8d8d8d;
+            color: rgb(0, 0, 0);
+        }
+        .subname{
+            display: flex;
+        }
+.namess{
+    background-color: black;
+    color: #fff;
+    padding:5px;
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+    nav {
+        display: grid;
+            justify-content: space-between;
+}
+.footer {
+    display: grid;
+    grid-template-columns: repeat(3 ,33% 37% 30%);
+}
+#imagea {
+    width: 70%;
+    height: 50px;
+}
+#imageb {
+    width: 30%;
+    height: 50px;
+}
+#texte2 {
+    margin-top: 10%;
+    margin-left: 19%;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 700;
+}
+#textboxes {
+            width: 100%;
+            height: 90px;
+            position: relative;
+            overflow: hidden;
+       
+        }
+        #image1 {
+            width: 100%;
+            height: 120px;
+           
+        }
+       .textbox-container1 {
+    position: absolute;
+    top: 58%;
+    left: 0%;
+    /* transform: translate(-50%, -50%); */
+    width: 500px;
+}
+#textboxes1 {
+            width: 30px;
+            height: 32px;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        #image2 {
+            width: 30px;
+    height: 30px;
+    border-radius: 10px 
+        }
+        #texte {
+    margin-top: 12px;
+    align-items: center;
+    color: #fff;
+    font-size: 12px; /* Adjust the font size as needed */
+    font-weight: 700;
+}
+.dropdown-content {
+    min-width: 65px;
+}
+button {
+        width: 65px;
+    }
+
+}
+
+@media screen and (min-width: 601px) and (max-width: 1023px) {
+    nav {
+        display: grid;
+            justify-content: space-between;
+}
+.footer {
+    display: grid;
+    grid-template-columns: repeat(3 ,33% 37% 30%);
+}
+#imagea {
+    width: 70%;
+    height: 50px;
+}
+#imageb {
+    width: 30%;
+    height: 50px;
+}
+#texte2 {
+    margin-top: 10%;
+    margin-left: 19%;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 700;
+}
+#textboxes {
+            width: 100%;
+            height: 90px;
+            position: relative;
+            overflow: hidden;
+       
+        }
+        #image1 {
+            width: 100%;
+            height: 120px;
+           
+        }
+        .textbox-container1 {
+    position: absolute;
+    top: 58%;
+    left: 20%;
+    /* transform: translate(-50%, -50%); */
+    width: 500px;
+}
+#textboxes1 {
+            width: 30px;
+            height: 32px;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        #image2 {
+            width: 30px;
+    height: 30px;
+    border-radius: 10px 
+        }
+        #texte {
+    margin-top: 12px;
+    align-items: center;
+    color: #fff;
+    font-size: 12px; /* Adjust the font size as needed */
+    font-weight: 700;
+}
+button {
+        width: 95px;
+    }
+    .dropdown-content {
+    min-width: 95px;
+}
+}
+
+</style>
+</head>
+<body>
+
+    <header>
+        <div id="textboxes">
+            <img id="image1" src="images/21.jpg" alt="Your Image">
+            <div class="textbox-container">
+                <div id="textboxes2"><img id="image4" src="images/20.png" alt="Second Image">
+                </div> 
+            </div>
+
+            <div class="textbox-container1">
+                <div id="textboxes1"><img id="image2" src="images/1 - Copy.png" alt="Second Image"></div>
+                  <div id="texte">
+                    NOVIUS MVIS- MACHINE VISION BASED INSPECTION SYSTEM
+                </div>
+             
+                </div> 
+            </div>
+        <nav>
+            <div class="flex-container">
+                <button class="save">
+                    <div id="textboxes3">
+                    <img id="image3" src="images/14.png" alt="Your Image">
+                </div>
+                
+                <a href="index2.html" class="vi" id="videoButton">Control Panel</a>
+            </button>
+            <button class="save" href="simple.php">
+                <div id="textboxes3">
+                <img id="image3" src="images/22 (2).png" alt="Your Image">
+            </div>
+            <a href="simple.php" class="vi" id="videoButton">Simple View</a>
+        </button>
+        <button class="save" href="Side.html">
+            <div id="textboxes3">
+                <img id="image3" src="images/15.png" alt="Your Image">
+            </div>
+        <a href="Side.html" class="vi" id="videoButton">Side View</a>
+    </button>
+    <button class="save" href="bogi.html">
+        <div id="textboxes3">
+            <img id="image3" src="images/19.ico" alt="Your Image">
+        </div>
+    <a href="bogi.html" class="vi" id="videoButton">Bogi View</a>
+</button>
+    <button class="save" href="alarm.html" >
+        <div id="textboxes3">
+            <img id="image3" src="images/16.png" alt="Your Image">
+        </div>
+    <a href="alarm.html" class="vi" id="videoButton">Alarm</a>
+</button>
+<button class="save" id="videoButton">
+    <div id="textboxes3">
+        <img id="image3" src="images/17.png" alt="Your Image">
+    </div>
+    <a href="trin.html" class="vi">Train Summary</a>
+</button>
+
+               
+
+                </div>
+                <div class="right">
+                    <button class="save" id="videoButton" style=" background:linear-gradient(to top, rgb(212, 3, 3), rgb(248, 166, 166));">
+                        <div id="textboxes3">
+                            <img id="image3" src="images/17.png" alt="Your Image">
+                        </div>
+                        <a href="treport.html" class="vi">Summary Report</a>
+                    </button>
+                    <div class="dropdown">
+                        <button style="border: 0px;">CR_PA_MUM-END_2001</button>
+                        <div class="dropdown-content">
+                            <a href="#">X</a>
+                        
+                          
+                        </div>
+                        
+                </div>
+                <button id="b3"> <i class="fi fi-rr-bell"></i></button> 
+                <div class="dropdown">
+                    <button style="border: 0px;">Admin<span class="arrow-down"></span></button>
+                    <div class="dropdown-content">
+                        <a href="#">X</a>
+                        <a href="#">Y</a>
+                        <a href="#">Z</a>
+                        <a href="#">A</a>
+                    </div> 
+            </div>
+    
+                    </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <div class="box">
+            <div class="filter-box">
+                <div class="name-selection">
+                    <label for="name1">Selection</label>
+                  
+                </div>
+                <div class="name-selection">
+                    <label for="name2">Filter</label>
+                  
+                </div>
+            </div>
+            <div class="filter-boxx">
+      <div class="subname">
+                <div class="date-selection">
+                    <label for="fromDate">From Date:</label>
+                    <input type="date" id="fromDate" name="fromDate">
+                </div>
+                <div class="date-selection">
+                    <label for="toDate">To Date:</label>
+                    <input type="date" id="toDate" name="toDate">
+                </div>
+      </div>
+      <div class="dropdown">
+        <button style="border: 0px;">COACH TYPE</button>
+        <div class="dropdown-content">
+            <a href="#">X</a>
+            <a href="#">Y</a>
+            <a href="#">Z</a>
+            <a href="#">A</a>
+        </div> 
+</div>
+<div class="dropdown">
+    <button style="border: 0px;">DIRECTION</button>
+    <div class="dropdown-content">
+        <a href="#">IN</a>
+        <a href="#">OUT</a>
+       
+    </div> 
+</div>
+<div class="dropdown">
+    <button style="border: 0px;">LOCATION</button>
+    <div class="dropdown-content">
+        <a href="#">X</a>
+        <a href="#">Y</a>
+        <a href="#">Z</a>
+        <a href="#">A</a>
+    </div> 
+</div>
+                <button class="filter-btn">Filter</button>
+            </div>
+        </div>
+    
+        <div class="word-box">
+            <div class="namess">Summary Report 
+
+                <div class="dropdown">
+                    <button style="border: 0px;">SAVE AS</button>
+                    <div class="dropdown-content">
+                        <a href="#">PDF</a>
+                        <a href="#">EXCLE</a>
+                        <a href="#">CSV</a>
+                    
+                    </div> 
+                </div>
+
+            </div>
+        
+    
+        <div class="word-box table-box">
+            <table>
+                <thead>
+                    <tr>
+                        <th>No Of Trains</th>
+                        <th>No Of Axles</th>
+                        <th>No Of Alarms</th><!-- Add more columns as needed -->
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Data 1</td>
+                        <td>Data 2</td>
+                        <td>Data 3</td>
+                        <!-- Add more data rows as needed -->
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+       
+        </div>
+        <div class="word-box">
+          
+            <div class="namess">Train Wise Details
+
+                <div class="dropdown">
+                    <button style="border: 0px;">SAVE AS</button>
+                    <div class="dropdown-content">
+                        <a href="#">PDF</a>
+                        <a href="#">EXCLE</a>
+                        <a href="#">CSV</a>
+                    
+                    </div> 
+                </div>
+
+            </div>
+    
+        <div class="word-box table-box">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Tr. No</th>
+                        <th>Train Time </th>
+                        <th>No Of Axle</th>
+                        <th>Alert</th>
+                        <!-- Add more columns as needed -->
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Data 1</td>
+                        <td>Data 2</td>
+                        <td>Data 3</td>
+                        <td>Data 4</td>
+                        <!-- Add more data rows as needed -->
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        </div>
+        <!-- Repeat the structure for the 3rd box if needed -->
+    
+    </div>
+
+    <div class="footer">
+        <div class="subfooter">
+        <div id="textboxess">
+            <img id="imagex" src="images/z.png" alt="Your Image">
+            <div id="textboxesss">
+                <img id="imagea" src="images/20.png" alt="Your Image">
+    
+            </div>  
+        </div>
+        </div>
+        <div class="subfooter">
+            <div id="textboxess">
+                <img id="imagex" src="images/y.png" alt="Your Image">
+                <div id="textboxesssm">
+                    <img id="imageb" src="images/24.2.png" alt="Your Image">
+    
+                </div>  
+            </div>
+            </div>
+            <div class="subfooter">
+                <div id="textboxess">
+                    <img id="imagex" src="images/x.png" alt="Your Image">
+                    <div id="textboxesss">
+                        <div id="texte2">
+                           MVIS
+                        </div>
+                    </div>
+                </div>
+                </div>
+     </div>
+ <!-- ======= Charts JS ====== -->
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js"></script>
+ <script src="js/chart.js"></script>
+</body>
+</html>

@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>Novius RailTech MVIS</title>
+<head>
+    <link rel="shortcut icon" type="x-icon" href="images/top-icon - Copy.jpeg">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+   @import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500&family=Secular+One&display=swap');
+  @import url('https://cdn-uicons.flaticon.com/2.1.0/uicons-regular-rounded/css/uicons-regular-rounded.css');
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            
+            color: white;
+            padding: 0px;
+            text-align: center;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 3px;
+            background:linear-gradient(to top, rgb(3, 3, 3), rgb(108, 109, 109));
+        }
+
+        .flex-container {
+            display: flex;
+        }
+
+        .flex-1 {
+            width: 100%;
+            height: 548px;
+            overflow-y: auto;
+            padding: 10px;
+           /* border-right: 1px solid #ccc;*/
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            
+        }
+        #textboxes {
+            width: 100%;
+            height: 60px;
+            position: relative;
+            overflow: hidden;
+        
+        }
+        #textboxess {
+            width: 100%;
+            height: 60px;
+            position: relative;
+            overflow: hidden;
+        }
+       
+        #textboxesss {
+            width: 100%;
+            height: 60px;
+            position: absolute;
+            top: 0%;
+        }
+        #textboxesssm {
+            width: 100%;
+            height: 60px;
+            position: absolute;
+            top: 0%;
+            display: flex;
+            justify-content: center;
+        }
+        #image1 {
+            width: 100%;
+            height: 100%;
+            
+        }
+        #imagex {
+            width: 100%;
+            height: 58px;
+          
+        }
+        #imagea {
+            width: 50%;
+            height: 50px;
+          
+        }
+        #imageb {
+    width: 8%;
+    height: 50px;
+   
+}
+        #imagec {
+            width: 50%;
+            height: 60px;
+            margin-left: 160px; 
+        }
+        button {
+            font-size: 13px;
+            color: #fff;
+            height: 35px;
+            width: 135px;
+            background: linear-gradient(to top, rgb(3, 3, 3), rgb(108, 109, 109));
+            border: 0px;
+        }
+        button:hover {
+    background:linear-gradient(to top, rgb(212, 3, 3), rgb(248, 166, 166));
+          color:var(--white);
+        } 
+        .f1head{
+        background:linear-gradient(to top, rgb(3, 3, 3), rgb(147, 148, 148));;
+         color: white;
+          padding: 6px;
+          text-align: left;
+          border-radius: inherit;
+          font-family: 'Arvo', serif;
+          font-size: small;
+        }
+        .save{
+
+justify-content: center;
+display: flex;
+align-items: center;
+}
+
+        .arrow-down {
+            width: 0;
+            height: 0;
+            border-left: 8px solid transparent;
+            border-right: 8px solid transparent;
+            border-top: 8px solid black;
+            position: absolute;
+            top: 50%;
+            right: 10px;
+            transform: translateY(-50%);
+        }
+        .dropdown {
+    position: relative;
+    display: inline-block;
+    
+}
+
+        .dropdown button {
+            cursor: pointer;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 142px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #f1f1f1;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .date{
+           
+           display: grid;
+           padding: 6px;
+           border-radius: 2px;
+           text-align: justify;
+           gap: 10px;
+           font-size: x-small;
+           font-weight: bold;
+           grid-template-columns: 1fr 1fr 1fr;
+           justify-items: center;
+       }
+
+        input[type="date" i]{
+            height: 20px;
+        }
+        .grid-container {
+            display: grid;
+            grid-gap: 20px;
+        }
+
+        .info{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(255, 255, 255);
+            border-radius: 8px;
+           
+            height: 110px;
+            width: fit-content;
+}
+#textboxes2 {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        #textboxes3 {
+            width: 30%;
+            height: 100%;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        #image2 {
+            width: 100%;
+            height: 100%;
+            border-radius: 10px; 
+        }
+        #image3 {
+            width: 80%;
+            height: 100%;
+            border-radius: 10px; 
+        }
+        #image4 {
+            width: 100%;
+            height: 58px;
+            border-radius: 10px; 
+        }
+        #textboxes2:hover {
+            background: linear-gradient(to top, rgb(251 251 255), rgb(171 174 174));
+        } 
+        .vi{
+        display: inline-block;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: 'Rubik', sans-serif;
+    font-size: x-small;
+    text-transform: uppercase;
+    font-weight: bold;
+        }
+      
+        .textbox-container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 400px;
+        }
+
+        #textboxes1 {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+
+
+        .textbox-container7 {
+            position: absolute;
+            top: 0%;
+            /*left: 50%;
+            transform: translate(-50%, -50%);*/
+            width: 200px;
+        }
+        
+        .textbox-container9 {
+            position: absolute;
+    top: 40%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    width: 700px;
+        }
+       
+
+
+
+.footer{
+    display: grid;
+    grid-template-columns: repeat(3 ,25% 50% 25%);
+}
+
+.textbox-container8 {
+            position: absolute;
+            top: 20%;
+            left: 34%;
+        
+            width: 100%;
+            display: flex;
+        }
+      #textboxes5 {
+            width: 35px;
+            height: 100%;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            cursor: pointer;
+        }   
+#image5 {
+            width: 35px;
+    height: 35px;
+    border-radius: 10px 
+        }
+     #texte {
+    margin-top: 9px;
+    align-items: center;
+    color: #fff;
+    font-size: 20px; 
+    font-weight: 700;
+}
+#texte2 {
+    margin-top: 1%;
+    margin-left: 50%;
+    color: #fff;
+    font-size: 45px;
+    font-weight: 700;
+}
+a {
+      text-decoration: none;
+    }
+    #b3{
+    background: #3471be;
+    color: #fff;
+    width: 30px;
+    font-size: medium;
+    cursor: pointer;
+    height: 30px;
+    padding: 5px 4px;
+    margin-top: 1px;
+}
+#b3:hover{
+    background:linear-gradient(to top, rgb(1, 71, 193), rgb(81, 125, 244));
+}
+.right{
+    display: flex;
+}
+
+@media screen and (max-width: 600px) {
+    button {
+        width: 65px;
+    }
+    .dropdown-content {
+    min-width: 65px;
+}
+
+.dropdown input {
+            width: 110px;
+        }
+.date{
+    grid-template-columns: 1fr;
+    margin-left: 0px;
+}
+.info{
+    width: auto;
+}
+#textboxes {
+            width: 100%;
+            height: 90px;
+            position: relative;
+            overflow: hidden;
+      
+        }
+        #image1 {
+            width: 100%;
+            height: 120px;
+           
+        }
+        .textbox-container7{
+            left: 30%;
+        }
+
+
+     
+       
+ 
+#imagec {
+    width: 70%;
+    height: 60px;
+    margin-left: 25px;
+}
+#imagea {
+    width: 70%;
+    height: 50px;
+}
+#imageb {
+    width: 30%;
+    height: 50px;
+}
+#texte {
+    margin-top: 12px;
+    align-items: center;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+}
+#image5 {
+            width: 30px;
+    height: 30px;
+    border-radius: 10px 
+        }
+     #textboxes5 {
+            width: 30px;
+            height: 32px;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+.textbox-container8 {
+    position: absolute;
+    top: 58%;
+    left: 0%;
+    width: 500px;
+}
+#texte2 {
+    margin-top: 10%;
+    margin-left: 19%;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 700;
+}
+nav {
+    display: grid;
+            justify-content: space-between;
+}
+.footer {
+    display: grid;
+    grid-template-columns: repeat(3 ,33% 37% 30%);
+}
+    }
+
+    @media screen and (min-width: 601px) and (max-width: 1023px) {
+        button {
+        width: 95px;
+    }
+    .dropdown-content {
+    min-width: 95px;
+}
+
+.dropdown input {
+            width: 110px;
+        }
+.date{
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 0px;
+}
+.info{
+    width: auto;
+}
+#textboxes {
+            width: 100%;
+            height: 90px;
+            position: relative;
+            overflow: hidden;
+      
+        }
+        #image1 {
+            width: 100%;
+            height: 120px;
+           
+        }
+        .textbox-container7{
+            left: 40%;
+        }
+
+
+     
+       
+ 
+#imagec {
+    width: 70%;
+    height: 60px;
+    margin-left: 25px;
+}
+#imagea {
+    width: 70%;
+    height: 50px;
+}
+#imageb {
+    width: 30%;
+    height: 50px;
+}
+#texte {
+    margin-top: 12px;
+    align-items: center;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+}
+#image5 {
+            width: 30px;
+    height: 30px;
+    border-radius: 10px 
+        }
+     #textboxes5 {
+            width: 30px;
+            height: 32px;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+.textbox-container8 {
+    position: absolute;
+    top: 58%;
+    left: 20%;
+    width: 500px;
+}
+#texte2 {
+    margin-top: 10%;
+    margin-left: 19%;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 700;
+}
+nav {
+    display: grid;
+            justify-content: space-between;
+}
+.footer {
+    display: grid;
+    grid-template-columns: repeat(3 ,33% 37% 30%);
+}
+    }
+
+    </style>
+</head>
+<body>
+
+    <header>
+        <div id="textboxes">
+            <img id="image1" src="images/21.jpg" alt="Your Image">
+            <div class="textbox-container7">
+                <div id="textboxes2"><img id="image4" src="images/20.png" alt="Second Image">
+                </div> 
+            </div>
+
+            <div class="textbox-container8">
+                <div id="textboxes5"><img id="image5" src="images/1 - Copy.png" alt="Second Image"></div>
+                  <div id="texte">
+                    NOVIUS MVIS- MACHINE VISION BASED INSPECTION SYSTEM
+                </div>
+             
+                </div> 
+            </div>
+        <nav>
+            <div class="flex-container">
+                <button class="save" style=" background:linear-gradient(to top, rgb(212, 3, 3), rgb(248, 166, 166));">
+                    <div id="textboxes3">
+                    <img id="image3" src="images/14.png" alt="Your Image">
+                </div>
+                
+                <a href="index.html" class="vi" id="videoButton">Control Panel</a>
+            </button>
+            <button class="save" href="simple.php">
+                <div id="textboxes3">
+                <img id="image3" src="images/22 (2).png" alt="Your Image">
+            </div>
+            <a href="simple.php" class="vi" id="videoButton">Simple View</a>
+        </button>
+        <button class="save" href="Side.html">
+            <div id="textboxes3">
+                <img id="image3" src="images/15.png" alt="Your Image">
+            </div>
+        <a href="Side.html" class="vi" id="videoButton">Side View</a>
+    </button>
+    <button class="save" href="bogi.html">
+        <div id="textboxes3">
+            <img id="image3" src="images/19.ico" alt="Your Image">
+        </div>
+    <a href="bogi.html" class="vi" id="videoButton">Bogi View</a>
+</button>
+    <button class="save" href="alarm.html">
+        <div id="textboxes3">
+            <img id="image3" src="images/16.png" alt="Your Image">
+        </div>
+    <a href="alarm.html" class="vi" id="videoButton">Alarm</a>
+</button>
+<button class="save">
+    <div id="textboxes3">
+        <img id="image3" src="images/17.png" alt="Your Image">
+    </div>
+    <a href="trin.html" class="vi" id="videoButton">Train Summary</a>
+</button>
+          
+                   
+                </div>
+                <div class="right">
+                    <button class="save" id="videoButton">
+                        <div id="textboxes3">
+                            <img id="image3" src="images/17.png" alt="Your Image">
+                        </div>
+                        <a href="treport.html" class="vi">Summary Report</a>
+                    </button>
+                    <div class="dropdown">
+                        <button style="border: 0px;">CR_PA_MUM-END_2001</button>
+                        <div class="dropdown-content">
+                            <a href="#">X</a>
+                        
+                          
+                        </div>
+                        
+                </div>
+                <button id="b3"> <i class="fi fi-rr-bell"></i></button> 
+                <div class="dropdown">
+                    <button style="border: 0px;">Admin<span class="arrow-down"></span></button>
+                    <div class="dropdown-content">
+                        <a href="#">X</a>
+                        <a href="#">Y</a>
+                        <a href="#">Z</a>
+                        <a href="#">A</a>
+                    </div> 
+            </div>
+    
+                    </div>
+        </nav>
+    </header>
+
+    <div style="height: 0px;"></div>
+
+    <div class="flex-container">
+        <div class="flex-1">
+            <div class="f1head">OPRETION AND CONTROL</div>
+            <div class="date">
+                <div class="info">
+                    <div id="textboxes2">
+                        <img id="image2" src="images/2.png" alt="Your Image">
+                    </div>
+                </div>
+                <div class="info">
+                    <div id="textboxes2">
+                        <img id="image2" src="images/3.png" alt="Your Image">
+                    </div>
+                </div>
+                <div class="info">
+                    <div id="textboxes2">
+                        <img id="image2" src="images/4.png" alt="Your Image">
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                <div class="info">
+                    <div id="textboxes2">
+                        <img id="image2" src="images/5.png" alt="Your Image">
+                    </div>
+                </div>
+                <div class="info">
+                    <div id="textboxes2">
+                        <img id="image2" src="images/6.png" alt="Your Image">
+                    </div>
+                </div>
+                <div class="info">
+                    <div id="textboxes2">
+                        <img id="image2" src="images/7.png" alt="Your Image">
+                    </div>
+                </div>  
+            </div>
+            <div class="f1head">MAINTANANCE</div>
+            <div class="date">
+                <div class="info">
+                    <div id="textboxes2">
+                        <img id="image2" src="images/8.png" alt="Your Image">
+                    </div>
+                </div>
+                <div class="info">
+                    <div id="textboxes2">
+                        <img id="image2" src="images/9.png" alt="Your Image">
+                    </div>
+                </div>
+                <div class="info">
+                    <div id="textboxes2">
+                        <img id="image2" src="images/10.png" alt="Your Image">
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                <div class="info">
+                    <div id="textboxes2">
+                        <img id="image2" src="images/11.png" alt="Your Image">
+                    </div>
+                </div>
+                <div class="info">
+                    <div id="textboxes2">
+                        <img id="image2" src="images/12.png" alt="Your Image">
+                    </div>
+                </div>
+                <div class="info">
+                    <div id="textboxes2">
+                        <img id="image2" src="images/13.png" alt="Your Image">
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+    
+    
+ <!-- ======= Charts JS ====== -->
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js"></script>
+ <script src="js/chart.js"></script>
+ <div class="footer">
+    <div class="subfooter">
+    <div id="textboxess">
+        <img id="imagex" src="images/z.png" alt="Your Image">
+        <div id="textboxesss">
+            <img id="imagea" src="images/20.png" alt="Your Image">
+
+        </div>  
+    </div>
+    </div>
+    <div class="subfooter">
+        <div id="textboxess">
+            <img id="imagex" src="images/y.png" alt="Your Image">
+            <div id="textboxesssm">
+                <img id="imageb" src="images/24.2.png" alt="Your Image">
+
+            </div>  
+        </div>
+        </div>
+        <div class="subfooter">
+            <div id="textboxess">
+                <img id="imagex" src="images/x.png" alt="Your Image">
+                <div id="textboxesss">
+                    <div id="texte2">
+                       MVIS
+                    </div>
+    
+                </div>
+            </div>
+            </div>
+ </div>
+ 
+</body>
+</html>

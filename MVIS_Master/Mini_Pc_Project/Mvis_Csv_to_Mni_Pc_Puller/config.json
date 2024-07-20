@@ -1,0 +1,19 @@
+{
+  "Csv_filename": {
+    "Csv_Gridviewtbl": "\\\\192.168.1.253\\Documents\\Gridviewtbl.csv",
+    "Csv_Mvis_Events": "\\\\192.168.1.253\\Documents\\Mvis_Events.csv"
+    
+  },
+
+  
+    "cloud_database": {
+    "driver": "{SQL Server}",
+    "server": "103.120.176.21",
+    "database_name": "noviusr1_MVISCopy",
+    "username": "noviusr1_novius2",
+    "password": "Yoj9IbR0y#M%"
+}
+}
+
+
+

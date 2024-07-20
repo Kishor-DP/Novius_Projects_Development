@@ -1,0 +1,613 @@
+Time_stamp,Code,Component,Parameter,Status
+2024-07-10 12:34:56,1,1,Good,ok
+2024-07-10 12:34:56,2,2,Good,ok
+2024-07-10 12:34:56,3,3,Good,ok
+Bolster,4,12345,Good,ok
+Wheel,5,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,6,12345,Good,ok
+Yaw Damper,12345,12345,Good,ok
+Wheel,12345,12345,Good,ok
+Primary Suspention,12345,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,123456,123456,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,123457,123457,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,1234455,123458,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Vertical Damper,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Axle Box Cover,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Primary Suspention,Ok,12345,Good,ok
+Wheel,Ok,12345,Good,ok
+Yaw Damper,Ok,12345,Good,ok
+2024-07-10 12:34:56,123,Active,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,123456,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,123456,123456,Good,ok
+Wheel,123456,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,123456,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Vertical Damper,123456,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Vertical Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Yaw Damper,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Axle Box Cover,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+Primary Suspention,Ok,123456,Good,ok
+Wheel,Ok,123456,Good,ok
+2024-07-10 12:34:56,123,Active,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Vertical Damper,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Vertical Damper,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Bolster,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Vertical Damper,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Vertical Damper,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Vertical Damper,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Vertical Damper,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Vertical Damper,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Vertical Damper,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Wheel,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+Vertical Damper,Ok,Qim8CVpe4m,Good,ok
+Yaw Damper,Ok,Qim8CVpe4m,Good,ok
+Primary Suspention,Ok,Qim8CVpe4m,Good,ok
+2024-07-10 12:34:56,123,Active,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Vertical Damper,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Vertical Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Bolster,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Vertical Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Vertical Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Vertical Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Vertical Damper,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Vertical Damper,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Vertical Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Vertical Damper,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Vertical Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Vertical Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Vertical Damper,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Primary Suspention,Ok,mbMkaevtNp,Good,ok
+Wheel,Ok,mbMkaevtNp,Good,ok
+Yaw Damper,Ok,mbMkaevtNp,Good,ok
+2024-07-10 12:34:56,123,Active,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Vertical Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Vertical Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Vertical Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Vertical Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Vertical Damper,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Vertical Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Vertical Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Vertical Damper,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Vertical Damper,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Vertical Damper,Ok,PeSHPKw30p,Good,ok
+Yaw Damper,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Vertical Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Vertical Damper,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Wheel,Ok,PeSHPKw30p,Good,ok
+Primary Suspention,Ok,PeSHPKw30p,Good,ok
