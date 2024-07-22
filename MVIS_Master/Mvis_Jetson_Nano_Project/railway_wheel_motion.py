@@ -14,7 +14,7 @@ from EventLogger2 import app_event
 import numpy as np
 from Monitor_Folder import FileRotator
 from functools import wraps
-
+from Video_Recorder import VideoRecorder
 '''
 def retry(exceptions, tries=31536063734300000, delay=1, backoff=2):
     def decorator_retry(func):
@@ -98,6 +98,7 @@ assign_time_stamp = 0
 #write_motion_status("True")
 def railway_wheel_motion():
     global share_assign_time_stamp
+    recorder = VideoRecorder()
     # Define input and output URIs
     #input_url="/home/jetson/LHB.mp4"
     input_url = "rtsp://admin:ntipl12345@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0"
@@ -200,11 +201,16 @@ def railway_wheel_motion():
                 print("share_assigned_time_stamp_is_here",share_assign_time_stamp)
                 app_event.debug(f"share_assign_time_stamp: {share_assign_time_stamp}")
                 motion_detected = "True" # Change this to the actual condition
-                # Write motion status to JSON file
+                #Write motion status to JSON file
                 write_motion_status(motion_detected)
+                
                 time_stamp = share_assign_time_stamp
                 write_share_assign_time_stamp_status(time_stamp)
+                
                 last_motion_time_one_time_iterate = 0
+                
+                #recorder.start_recording()
+                app_event.debug("VideoRecording started on trigger motion")
                 
             # Perform actions when motion is detected
         else:
@@ -259,18 +265,22 @@ def run_railway_bogie_detection():
 def run_Monitor_Folder_runner():
     FileRotator.monitor_Folder_runner()
 
+def run_Video_Recorder():
+    recorder = VideoRecorder()
+    recorder.start_recording()
 # Create threads for each function
 wheel_motion_thread = threading.Thread(target=run_railway_wheel_motion)
 bogie_detection_thread = threading.Thread(target=run_railway_bogie_detection)
 Monitor_Folder_thread=threading.Thread(target=run_Monitor_Folder_runner)
+run_Video_Recorder_thread=threading.Thread(target=run_Video_Recorder)
 # Start both threads
 wheel_motion_thread.start()
 bogie_detection_thread.start()
 Monitor_Folder_thread.start()
-
+run_Video_Recorder_thread.start()
 
 # Wait for both threads to finish
 wheel_motion_thread.join()
 bogie_detection_thread.join()
 Monitor_Folder_thread.join()
-
+run_Video_Recorder_thread.join()

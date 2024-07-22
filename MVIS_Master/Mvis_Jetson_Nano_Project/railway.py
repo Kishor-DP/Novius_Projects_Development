@@ -117,7 +117,7 @@ def railway_bogie_detection():
         sys.exit(0)
     output = videoOutput(args.output, argv=sys.argv)
 
-    net = detectNet(model="network/ssd-mobilenet.onnx", labels="network/labels.txt", 
+    net = detectNet(model="/home/jetson/Mvis_Jetson_Nano_Project/network/ssd-mobilenet.onnx", labels="/home/jetson/Mvis_Jetson_Nano_Project/network/labels.txt", 
                     input_blob="input_0", output_cvg="scores", output_bbox="boxes", 
                     threshold=args.threshold)
     
@@ -136,7 +136,7 @@ def railway_bogie_detection():
    
 
     # Load class labels from a file (assuming the file contains one class label per line)
-    with open('/home/jetson/railway/network/labels.txt', 'r') as file:
+    with open('/home/jetson/Mvis_Jetson_Nano_Project/network/labels.txt', 'r') as file:
         class_labels = file.read().splitlines()
 
     target_class_ids = [0,1, 2, 3, 4, 5, 6, 7, 8, 9,10,11,12,13,14,15,16,17,18,19]

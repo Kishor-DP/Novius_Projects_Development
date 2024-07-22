@@ -24,12 +24,17 @@ class FileRotator:
                     self.delete_oldest_file(files)
             time.sleep(1)  # Check every second
 
-if __name__ == "__main__":
-    folder_paths = ["images/Axle Box Cover", "images/Axle Box Spring-Primary Suspention","images/Bearing Assembly",
-                    "images/Bolster","images/Bolster Spring-Secondary Suspention","images/Bolster Suspention Hanger","images/Brake Block",
-                    "images/Hanger Block","images/Hanger Pin","images/Load Bearing Springs",
-                    "images/Lower Spring Beam","images/Primary Suspention","images/Side Frame",
-                    "images/Spring Plank","images/Track","images/Vertical Damper","images/Vertical Shock Absorber",
-                    "images/Wheel","images/Yaw Damper"]  # Add your folder paths here
-    file_rotator = FileRotator(folder_paths)
-    file_rotator.monitor_folders()
+    @staticmethod
+    def monitor_Folder_runner():
+        folder_paths = [
+            "images/Axle Box Cover", "images/Axle Box Spring-Primary Suspention", "images/Bearing Assembly",
+            "images/Bolster", "images/Bolster Spring-Secondary Suspention", "images/Bolster Suspention Hanger",
+            "images/Brake Block", "images/Hanger Block", "images/Hanger Pin", "images/Load Bearing Springs",
+            "images/Lower Spring Beam", "images/Primary Suspention", "images/Side Frame", "images/Spring Plank",
+            "images/Track", "images/Vertical Damper", "images/Vertical Shock Absorber", "images/Wheel", "images/Yaw Damper"
+        ]  # Add your folder paths here
+        file_rotator = FileRotator(folder_paths)
+        file_rotator.monitor_folders()
+
+#if __name__ == "__main__":
+#    FileRotator.monitor_Folder_runner()
