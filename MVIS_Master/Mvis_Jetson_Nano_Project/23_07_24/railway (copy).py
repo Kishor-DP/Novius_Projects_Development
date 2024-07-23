@@ -13,7 +13,7 @@ import numpy as np
 #from PIL import Image
 from datetime import datetime
 from EventLogger2 import app_event, sys_event
-from Mvis_Csv import insert_record_into_tblMvis_Events
+from insert import insert_into_ICF_Detected_function
 import datetime
 import time
 from PIL import Image
@@ -31,10 +31,10 @@ def create_video_source(input_url, options, argv):
         except Exception as e:
             if retry_count_input < max_retries_input:
                 retry_count_input += 1
-                print("Failed to input create video source. Retrying... Attempt", retry_count_input)
+                print("Failed to create video source. Retrying... Attempt", retry_count_input)
                 time.sleep(1)  # Add a delay before retrying
             else:
-                print("Failed to input create video source after maximum retries.")
+                print("Failed to create video source after maximum retries.")
                 return None
 
 def read_motion_status(max_retries=3, retry_interval=1):
@@ -95,7 +95,14 @@ def read_motion_status():
 '''
 
 def railway_bogie_detection():
+    input_url = "/home/jetson/Downloads/123.mp4"
+    #input_url = "/dev/video0"
+    input_options = {'width': 1280, 'height': 720, 'framerate': 25, 'flipMethod': 'rotate-0'}
+    input_source = create_video_source(input_url, options=input_options, argv=sys.argv)
     
+    if input_source is None:
+        print("Failed to create video source.")
+        return
 
     # parse the command line
     parser = argparse.ArgumentParser(description="Locate objects in a live input stream using an object detection DNN.", 
@@ -103,10 +110,10 @@ def railway_bogie_detection():
                                      epilog=detectNet.Usage() + videoSource.Usage() + videoOutput.Usage() + Log.Usage())
 
     parser.add_argument("input", type=str, default="", nargs='?', help="URI of the input stream")
-    parser.add_argument("output", type=str, default="", nargs='?', help="URI of the output stream")
+    parser.add_argument("output", type=str, default="railway.mp4", nargs='?', help="URI of the output stream")
     parser.add_argument("--network", type=str, default="ssd-mobilenet-v2", help="pre-trained model to load (see below for options)")
     parser.add_argument("--overlay", type=str, default="box,labels,conf", help="detection overlay flags (e.g. --overlay=box,labels,conf)\nvalid combinations are:  'box', 'labels', 'conf', 'none'")
-    parser.add_argument("--threshold", type=float, default=0.5, help="minimum detection threshold to use") 
+    parser.add_argument("--threshold", type=float, default=0.5, help="minimum detection threshold to use")
     parser.add_argument("--snapshots", type=str, default="images/test/detections", help="output directory of detection snapshots")
     parser.add_argument("--timestamp", type=str, default="%Y%m%d-%H%M%S-%f", help="timestamp format used in snapshot filenames")
     try:
@@ -117,18 +124,11 @@ def railway_bogie_detection():
         sys.exit(0)
     output = videoOutput(args.output, argv=sys.argv)
 
-    net = detectNet(model="/home/jetson/Novius_Projects_Development/MVIS_Master/Mvis_Jetson_Nano_Project/network/ssd-mobilenet.onnx", labels="/home/jetson/Novius_Projects_Development/MVIS_Master/Mvis_Jetson_Nano_Project/network/labels.txt", 
+    net = detectNet(model="network/ssd-mobilenet.onnx", labels="network/labels.txt", 
                     input_blob="input_0", output_cvg="scores", output_bbox="boxes", 
                     threshold=args.threshold)
     
-    input_url="/home/jetson/LHB.mp4"
-    #input_url = "rtsp://admin:ntipl12345@192.168.1.108:554/cam/realmonitor?channel=1&subtype=1"
-    input_options = {'width': 720, 'height': 480, 'framerate': 20, 'flipMethod': 'rotate-0'}
-    input_source = create_video_source(input_url, options=input_options, argv=sys.argv)
     
-    if input_source is None:
-        print("Failed to create video source.")
-        return
     
 
     #input_url = "/dev/video0"#"/dev/video0"
@@ -136,7 +136,7 @@ def railway_bogie_detection():
    
 
     # Load class labels from a file (assuming the file contains one class label per line)
-    with open('/home/jetson/Novius_Projects_Development/MVIS_Master/Mvis_Jetson_Nano_Project/network/labels.txt', 'r') as file:
+    with open('/home/jetson/railway/network/labels.txt', 'r') as file:
         class_labels = file.read().splitlines()
 
     target_class_ids = [0,1, 2, 3, 4, 5, 6, 7, 8, 9,10,11,12,13,14,15,16,17,18,19]
@@ -152,20 +152,18 @@ def railway_bogie_detection():
 
         img = input_source.Capture()
 
-        if img is None : # timeout
-            if retry_count < max_retries:
-                retry_count += 1
+        if img is None: # timeout
+            #if retry_count < max_retries:
+             #   retry_count += 1
                 #input = videoSource(input_url,options={'width': 720, 'height': 480, 'framerate': 20, 'flipMethod': 'rotate-0'}, argv=sys.argv)
-                print("railway.py Failed to capture image. Retrying... Attempt", retry_count)
-               # Restart the stream or continue processing from the beginning
-                input_source.Close()
-                input_source = create_video_source(input_url, options=input_options, argv=sys.argv)
+              #  print("railway.py Failed to capture image. Retrying... Attempt", retry_count)
+               # time.sleep(2)
                 continue
-            else:
-                print("railway.py Failed to capture image after maximum retries.")
-                break  # Exit the loop if maximum retries exceeded
-        else:
-            retry_count = 0  # Reset retry count if successful image capture
+            #else:
+             #   print("railway.py Failed to capture image after maximum retries.")
+              #  break  # Exit the loop if maximum retries exceeded
+        #else:
+         #   retry_count = 0  # Reset retry count if successful image capture
   
 
         detections = net.Detect(img, overlay=args.overlay)
@@ -216,19 +214,13 @@ def railway_bogie_detection():
                     print("Skipping class ID 5 detection")  # Debugging statement
                     continue
                 print(Component)
-                insert_record_into_tblMvis_Events(timestamp,time_stamp,Component)
+                #insert_into_ICF_Detected_function(Component, "Ok",time_stamp)
                 print("componnrt",Component)
                 cudaDeviceSynchronize()
                 del snapshot
                 #output.Render(img)
                 #output.SetStatus("Novius")
                 #net.PrintProfilerTimes()
-            # Check if the input source is at the end of the stream
-            if np.all(img == 0):
-                # Restart the stream or continue processing from the beginning
-                input_source.Close()
-                input_source = create_video_source(input_url, options=input_options, argv=sys.argv)
-                continue
             output.Render(img)
             output.SetStatus("Novius")
             if not input_source.IsStreaming() or not output.IsStreaming():

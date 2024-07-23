@@ -1,0 +1,21 @@
+{
+  "database": {
+    "driver": "{SQL Server}",
+    "server": "4MVDUGL\\SQLEXPRESS",
+    "database_name": "MVISCopy",
+    "username": "",
+    "password": ""
+  },
+
+  
+    "cloud_database": {
+    "driver": "{SQL Server}",
+    "server": "103.120.176.21",
+    "database_name": "noviusr1_1000_MVIS_TEST-BENCH-SYSTEM",
+    "username": "noviusr1_noviusr2",
+    "password": "Yoj9IbR0y#M%"
+}
+}
+
+
+

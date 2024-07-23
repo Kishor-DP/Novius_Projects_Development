@@ -1,0 +1,4 @@
+host = '103.120.176.21';
+       $dbname = 'noviusr1_pune_mum_end';
+       $username = 'noviusr1_noviusr1';
+       $password = 'Yoj9IbR0y#M%';

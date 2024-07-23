@@ -8,34 +8,14 @@ from jetson_utils import videoSource, videoOutput
 from railway import railway_bogie_detection
 import threading
 import time
-from train_entry_timestamp import train_entry_timestamp
-import Mvis_Csv #import insert_into_tblGridview_to_start_train
+from train_entry_timestamp import generated_code,generate_code
+from Mvis_Csv import insert_into_tblGridview_to_start_train
 from EventLogger2 import app_event
 import numpy as np
 from Monitor_Folder import FileRotator
-from functools import wraps
-from Video_Recorder import VideoRecorder
-from Folder_Manager import FolderManager
-'''
-def retry(exceptions, tries=31536063734300000, delay=1, backoff=2):
-    def decorator_retry(func):
-        @wraps(func)
-        def wrapper_retry(*args, **kwargs):
-            _tries, _delay = tries, delay
-            while _tries > 1:
-                try:
-                    return func(*args, **kwargs)
-                except exceptions as e:
-                    print(f"Retrying func2 in {_delay} seconds... ({_tries-1} tries left) due to {e}")
-                    time.sleep(_delay)
-                    _tries -= 1
-                    #_delay *= backoff
-            return func(*args, **kwargs)
-        return wrapper_retry
-    return decorator_retry
-'''
+
 def create_video_source(input_url, options, argv):
-    max_retries_input = 31536063734300000 # Maximum number of retries for creating input
+    max_retries_input = 10000 # Maximum number of retries for creating input
     retry_count_input = 0  # Counter for retry attempts for creating input
     while True:
         try:
@@ -45,14 +25,13 @@ def create_video_source(input_url, options, argv):
             if retry_count_input < max_retries_input:
                 retry_count_input += 1
                 print("Failed to create video source. Retrying... Attempt", retry_count_input)
-                app_event.debug("railway.py Failed to capture image after maximum retries create_video_source.")
                 time.sleep(1)  # Add a delay before retrying
             else:
                 print("Failed to create video source after maximum retries.")
                 return None
 
 # Function to write motion status to JSON file with retry
-def write_motion_status(status, max_retries=31536063734300000, retry_interval=1):
+def write_motion_status(status, max_retries=3, retry_interval=1):
     retries = 0
     while retries < max_retries:
         try:
@@ -67,7 +46,7 @@ def write_motion_status(status, max_retries=31536063734300000, retry_interval=1)
     print("Failed to write JSON file after maximum retries")
 
 # Function to write motion status to JSON file with retry
-def write_share_assign_time_stamp_status(status2, max_retries=31536063734300000, retry_interval=1):
+def write_share_assign_time_stamp_status(status2, max_retries=3, retry_interval=1):
     retries = 0
     while retries < max_retries:
         try:
@@ -81,9 +60,7 @@ def write_share_assign_time_stamp_status(status2, max_retries=31536063734300000,
             time.sleep(retry_interval)
     print("Failed to write JSON file after maximum retries")
     
-#@retry(Exception,tries=31536063734300000, delay=1,)
-def capture_image(input_source):
-    return input_source.Capture()
+
 '''
 # Function to write motion status to JSON file
 def write_motion_status(status):
@@ -94,12 +71,11 @@ def write_motion_status(status):
     except Exception as e:
         print("Error writing JSON file:", e)
 '''
-share_assign_time_stamp = train_entry_timestamp()
+share_assign_time_stamp = generate_code(10)
 assign_time_stamp = 0
 #write_motion_status("True")
 def railway_wheel_motion():
     global share_assign_time_stamp
-    recorder = VideoRecorder()
     # Define input and output URIs
     input_url="/home/jetson/LHB.mp4"
     #input_url = "rtsp://admin:ntipl12345@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0"
@@ -108,7 +84,6 @@ def railway_wheel_motion():
     
     if input_source is None:
         print("Failed to create video source.")
-        app_event.debug("Failed to create video source.")
         return
     #output_uri = "123filename.mp4"
     output_uri="display://0"
@@ -137,32 +112,33 @@ def railway_wheel_motion():
     last_motion_time = time.time()  # Initialize the variable to track the time of the last motion detection
     
     #KP COMMENT BELOW LINE WHEN IMPLEMENTATION DONE ON SITE
-    Mvis_Csv.insert_into_tblGridview_to_start_train(share_assign_time_stamp)
+    insert_into_tblGridview_to_start_train(share_assign_time_stamp)
     
     # Capture frames until end-of-stream (or the user exits)
     while True:
-        try:
-            image = input_source.Capture()
-        except Exception as e:
-            print(f"Capture failed: {e}")
-            app_event.debug("Capture failed.")
-
-        if image is None : # timeout
+        image = input_source.Capture()  
+        
+        # If the image is None (timeout occurred), continue to the next iteration
+        if image is None: # timeout
             if retry_count < max_retries:
                 retry_count += 1
-                #input = videoSource(input_url,options={'width': 720, 'height': 480, 'framerate': 20, 'flipMethod': 'rotate-0'}, argv=sys.argv)
-                print("railway.py Failed to capture image. Retrying... Attempt", retry_count)
-                app_event.debug("create_video_source while True: if")
-               # Restart the stream or continue processing from the beginning
+                app_event.debug("motion_wheel Failed to capture image. Retrying... Attempt")
+                print("motion_wheel Failed to capture image. Retrying... Attempt", retry_count)
+                # Restart the stream or continue processing from the beginning
                 input_source.Close()
                 input_source = create_video_source(input_url, options=input_options, argv=sys.argv)
                 continue
             else:
-                print("railway.py Failed to capture image after maximum retries.while True: else")
-                app_event.debug("railway.py Failed to capture image after maximum retries.")
+                print("motion_wheel Failed to capture image after maximum retries.")
+                
+                # Restart the stream or continue processing from the beginning
+                input_source.Close()
+                input_source = create_video_source(input_url, options=input_options, argv=sys.argv)
+                
                 break  # Exit the loop if maximum retries exceeded
         else:
             retry_count = 0  # Reset retry count if successful image capture
+        
         
         # Convert CUDA image to NumPy array
         image_np = jetson.utils.cudaToNumpy(image)
@@ -200,30 +176,13 @@ def railway_wheel_motion():
             if assign_time_stamp == 0:
                 print("assign_time_stamp can be added here kp")
                 print("share_assigned_time_stamp_is_here",share_assign_time_stamp)
-                app_event.debug(f"share_assign_time_stamp: {share_assign_time_stamp}")
                 
                 motion_detected = "True" # Change this to the actual condition
-                #Write motion status to JSON file
+                # Write motion status to JSON file
                 write_motion_status(motion_detected)
-                
                 time_stamp = share_assign_time_stamp
                 write_share_assign_time_stamp_status(time_stamp)
-                
                 last_motion_time_one_time_iterate = 0
-                #time.sleep(1)
-                # Define your variables here
-                base_path = "/home/jetson/Documents"
-                root_folder = share_assign_time_stamp
-                subfolder_count = 1
-                Coach1="Coach_1"
-                subfolder_names = [f"{root_folder}_{Coach1}"]
-                
-                # Create FolderManager instance with the variables
-                folder_manager = FolderManager(base_path, root_folder, subfolder_count, subfolder_names)
-                folder_manager.create_folders()
-                
-                #recorder.start_recording()
-                app_event.debug("VideoRecording started on trigger motion")
                 
             # Perform actions when motion is detected
         else:
@@ -232,34 +191,24 @@ def railway_wheel_motion():
             #write_motion_status(motion_detected)
             # Check if no motion has been detected for 30 seconds
             
-            if time.time() - last_motion_time >= 130:
+            if time.time() - last_motion_time >= 120:
                 if last_motion_time_one_time_iterate == 0:
                     motion_detected = "False"
                     write_motion_status(motion_detected)
                     print("No motion detected for 120 seconds.")
-                    app_event.debug("No motion detected for 120 seconds.")
-                    share_assign_time_stamp = train_entry_timestamp()
+                    share_assign_time_stamp = generate_code(10)
                     print("insert_into_tblGridview_to_start_train",share_assign_time_stamp)
-                    Mvis_Csv.insert_into_tblGridview_to_start_train(share_assign_time_stamp)
+                    insert_into_tblGridview_to_start_train(share_assign_time_stamp)
                     last_motion_time_one_time_iterate = 1
                 # Perform actions when no motion is detected for 30 seconds
                 # Perform actions when no motion is detected
         
-        if np.all(image == 0):
-            # Restart the stream or continue processing from the beginning
-            input_source.Close()
-            input_source = create_video_source(input_url, options=input_options, argv=sys.argv)
-            continue
-        output.Render(image)
-        output.SetStatus("Novius")
-        if not input_source.IsStreaming() or not output.IsStreaming():
-            app_event.debug("if not block break")
-            break    
+
             # Render the image
-            #output.Render(jetson.utils.cudaFromNumpy(image_np))
+            output.Render(jetson.utils.cudaFromNumpy(image_np))
 
             # Update the title bar
-            #output.SetStatus("Novius MVIS Viewer")
+            output.SetStatus("Novius MVIS Viewer")
 
         
         # Exit on input/output EOS
@@ -278,23 +227,18 @@ def run_railway_bogie_detection():
 def run_Monitor_Folder_runner():
     FileRotator.monitor_Folder_runner()
 
-def run_Video_Recorder():
-    time.sleep(2)
-    recorder = VideoRecorder()
-    recorder.start_recording()
 # Create threads for each function
 wheel_motion_thread = threading.Thread(target=run_railway_wheel_motion)
 bogie_detection_thread = threading.Thread(target=run_railway_bogie_detection)
 Monitor_Folder_thread=threading.Thread(target=run_Monitor_Folder_runner)
-run_Video_Recorder_thread=threading.Thread(target=run_Video_Recorder)
 # Start both threads
 wheel_motion_thread.start()
 bogie_detection_thread.start()
 Monitor_Folder_thread.start()
-run_Video_Recorder_thread.start()
+
 
 # Wait for both threads to finish
 wheel_motion_thread.join()
 bogie_detection_thread.join()
 Monitor_Folder_thread.join()
-run_Video_Recorder_thread.join()
+
