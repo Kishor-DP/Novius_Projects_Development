@@ -81,7 +81,7 @@ class FolderManager:
                 print(f"Subfolder 'stitched coach images' created inside 'Coach Images'.")
             else:
                 print(f"Subfolder 'stitched coach images' already exists inside 'Coach Images'.")
-
+'''
 if __name__ == "__main__":
     base_path = "/home/jetson/Documents"
     root_folder = "MyRootFolder"
@@ -91,3 +91,4 @@ if __name__ == "__main__":
     # Create FolderManager instance with the variables
     folder_manager = FolderManager(base_path, root_folder, subfolder_count, subfolder_names)
     folder_manager.create_folders()
+'''

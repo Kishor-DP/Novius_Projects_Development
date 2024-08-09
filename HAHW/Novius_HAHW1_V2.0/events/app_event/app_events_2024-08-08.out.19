@@ -1,0 +1,297 @@
+2024-08-08 19:31:03,602 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:31:08,621 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:31:08,624 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:31:08,625 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:31:08,626 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:31:13,629 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:31:13,631 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:31:13,635 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:31:13,636 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:31:18,650 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:31:18,651 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:31:18,653 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:31:18,654 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:31:20,086 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_31_20_2000
+2024-08-08 19:31:20,208 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_31_20_2000
+2024-08-08 19:31:20,359 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_31_20_2000
+2024-08-08 19:31:20,502 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_31_20_2000
+2024-08-08 19:31:20,636 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_31_20_2000
+2024-08-08 19:31:20,785 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_31_20_2000
+2024-08-08 19:31:23,663 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:31:23,667 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:31:23,668 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:31:23,669 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:31:28,676 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:31:28,679 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:31:28,681 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:31:28,682 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:31:33,689 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:31:33,692 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:31:33,694 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:31:33,695 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:31:38,696 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:31:38,698 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:31:38,700 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:31:38,701 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:31:43,702 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:31:43,704 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:31:43,705 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:31:43,706 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:31:48,720 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:31:48,722 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:31:48,723 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:31:48,724 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:31:53,732 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:31:53,733 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:31:53,735 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:31:53,736 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:31:58,750 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:31:58,751 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:31:58,753 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:31:58,754 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:32:03,766 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:32:03,769 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:32:03,769 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:32:03,770 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:32:08,783 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:32:08,785 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:32:08,787 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:32:08,788 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:32:13,789 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:32:13,793 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:32:13,794 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:32:13,795 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:32:18,797 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:32:18,799 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:32:18,801 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:32:18,802 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:32:23,820 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:32:23,822 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:32:23,824 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:32:23,825 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:32:28,841 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:32:28,848 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:32:28,850 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:32:28,850 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:32:33,866 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:32:33,868 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:32:33,870 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:32:33,870 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:32:38,882 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:32:38,885 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:32:38,886 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:32:38,888 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:32:43,897 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:32:43,899 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:32:43,901 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:32:43,902 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:32:48,917 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:32:48,919 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:32:48,921 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:32:48,922 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:32:53,927 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:32:53,929 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:32:53,930 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:32:53,932 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:32:58,943 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:32:58,946 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:32:58,947 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:32:58,948 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:33:03,957 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:33:03,959 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:33:03,961 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:33:03,962 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:33:08,979 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_29_04_2000
+2024-08-08 19:33:08,988 - app_event - INFO - fetch_temperature=[('2024_08_08_19_29_04_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:29PM')]
+2024-08-08 19:33:09,000 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:33:09,001 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:33:10,824 - app_event - INFO - Current Train ID in main: None
+2024-08-08 19:33:10,972 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_33_10_2000
+2024-08-08 19:33:11,126 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_33_11_2000
+2024-08-08 19:33:11,269 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_33_11_2000
+2024-08-08 19:33:11,412 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_33_11_2000
+2024-08-08 19:33:11,542 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_33_11_2000
+2024-08-08 19:33:11,697 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_33_11_2000
+2024-08-08 19:33:15,832 - app_event - INFO - Current Train ID in main: 2024_08_08_19_33_11_2000
+2024-08-08 19:33:15,832 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:33:15,834 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:33:15,837 - app_event - INFO - sent from main Fetched temperature data: [('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:33:15,840 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:33:15,843 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:33:15,846 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:33:15,854 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:33:15,855 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:33:15,859 - app_event - DEBUG - calculate_temperatures
+2024-08-08 19:33:15,862 - app_event - DEBUG - calculate_temperatures
+2024-08-08 19:33:15,864 - app_event - DEBUG - calculate_temperatures
+2024-08-08 19:33:15,865 - app_event - DEBUG - calculate_temperatures
+2024-08-08 19:33:15,868 - app_event - DEBUG - calculate_temperatures
+2024-08-08 19:33:15,871 - app_event - DEBUG - insert_temperature_calculations
+2024-08-08 19:33:15,872 - app_event - DEBUG - insert_temperature_calculations
+2024-08-08 19:33:15,873 - app_event - DEBUG - insert_temperature_calculations
+2024-08-08 19:33:15,875 - app_event - DEBUG - insert_temperature_calculations
+2024-08-08 19:33:15,876 - app_event - DEBUG - insert_temperature_calculations
+2024-08-08 19:33:15,880 - app_event - DEBUG - fetch_temperature monitor train()=
+2024-08-08 19:33:20,887 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:33:20,889 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:33:20,891 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:33:20,893 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:33:25,906 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:33:25,908 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:33:25,911 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:33:25,913 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:33:30,915 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:33:30,918 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:33:30,920 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:33:30,921 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:33:35,926 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:33:35,930 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:33:35,933 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:33:35,934 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:33:40,941 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:33:40,944 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:33:40,945 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:33:40,946 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:33:45,956 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:33:45,961 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:33:45,965 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:33:45,966 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:33:50,979 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:33:50,982 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:33:50,984 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:33:50,985 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:33:55,994 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:33:55,996 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:33:55,998 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:33:55,999 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:34:01,004 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:34:01,005 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:34:01,008 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:34:01,010 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:34:06,023 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:34:06,025 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:34:06,028 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:34:06,030 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:34:11,035 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:34:11,037 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:34:11,040 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:34:11,041 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:34:16,054 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:34:16,056 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:34:16,058 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:34:16,059 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:34:21,074 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:34:21,075 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:34:21,078 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:34:21,079 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:34:26,081 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:34:26,082 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:34:26,085 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:34:26,086 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:34:31,090 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:34:31,093 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:34:31,095 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:34:31,096 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:34:36,108 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:34:36,110 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:34:36,111 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:34:36,113 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:34:41,122 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:34:41,127 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:34:41,131 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:34:41,133 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:34:46,139 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:34:46,141 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:34:46,143 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:34:46,144 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:34:51,145 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:34:51,147 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:34:51,149 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:34:51,150 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:34:56,165 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:34:56,167 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:34:56,169 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:34:56,170 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:35:01,174 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:35:01,175 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:35:01,177 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:35:01,179 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:35:06,182 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:35:06,184 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:35:06,187 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:35:06,188 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:35:11,201 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:35:11,203 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:35:11,205 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:35:11,206 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:35:16,207 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:35:16,209 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:35:16,212 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:35:16,213 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:35:21,220 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:35:21,221 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:35:21,224 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:35:21,225 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:35:26,226 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:35:26,228 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:35:26,230 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:35:26,231 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:35:27,954 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_35_27_2000
+2024-08-08 19:35:28,074 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_35_28_2000
+2024-08-08 19:35:28,230 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_35_28_2000
+2024-08-08 19:35:28,375 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_35_28_2000
+2024-08-08 19:35:28,476 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_35_28_2000
+2024-08-08 19:35:28,635 - app_event - DEBUG - _receive_data in insertintotemperature.pyTrainId:2024_08_08_19_35_28_2000
+2024-08-08 19:35:31,231 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:35:31,234 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:35:31,237 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:35:31,238 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:35:36,245 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:35:36,248 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:35:36,250 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:35:36,251 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:35:41,267 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:35:41,269 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:35:41,272 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:35:41,273 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:35:46,283 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:35:46,285 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:35:46,287 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:35:46,288 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:35:51,290 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:35:51,292 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:35:51,293 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:35:51,295 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:35:56,297 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:35:56,299 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:35:56,301 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:35:56,301 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:36:01,302 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:36:01,304 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:36:01,306 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:36:01,307 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:36:06,323 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:36:06,325 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:36:06,327 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:36:06,328 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:36:11,342 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:36:11,344 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:36:11,346 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:36:11,347 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:36:16,349 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:36:16,351 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:36:16,353 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:36:16,354 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:36:21,369 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:36:21,371 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:36:21,374 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:36:21,375 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:36:26,390 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:36:26,392 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:36:26,394 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:36:26,395 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:36:31,409 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000
+2024-08-08 19:36:31,411 - app_event - INFO - fetch_temperature=[('2024_08_08_19_33_11_2000', '2', '7   1  37  50  226398000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '3', '7   1  37  50  669333000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '4', '7   1  37  51  264394000', 682, 34, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '5', '7   1  37  51  772669000', 682, 0, 'Aug  8 2024  7:33PM'), ('2024_08_08_19_33_11_2000', '6', '7   3  19   0  797913000', 682, 34, 'Aug  8 2024  7:33PM')]
+2024-08-08 19:36:31,413 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-08 19:36:31,414 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-08 19:36:36,429 - app_event - INFO - received train_id from main fetch_temperature=2024_08_08_19_33_11_2000

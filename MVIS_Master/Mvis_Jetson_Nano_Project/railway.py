@@ -14,7 +14,7 @@ import numpy as np
 from datetime import datetime
 from EventLogger2 import app_event, sys_event
 from Mvis_Csv import insert_record_into_tblMvis_Events
-import datetime
+#import datetime
 import time
 from PIL import Image
 import json
@@ -36,6 +36,21 @@ def create_video_source(input_url, options, argv):
             else:
                 print("Failed to input create video source after maximum retries.")
                 return None
+
+def Write_Train_Start_On_Wheel_Detection(Write, max_retries=31536063734300000, retry_interval=1):
+    retries = 0
+    while retries < max_retries:
+        try:
+            Wheel_Detected_KeyValue = {"Wheel_Detected": Write}
+            with open('Train_Start_On_Wheel_Detection.json', 'w') as json_file:
+                json.dump(Wheel_Detected_KeyValue, json_file)
+            return  # Exit function if writing succeeds
+        except Exception as e:
+            print(f"Error writing JSON file (retry {retries + 1}/{max_retries}):", e)
+            retries += 1
+            time.sleep(retry_interval)
+    print("Failed to write JSON file after maximum retries")
+
 
 def read_motion_status(max_retries=3, retry_interval=1):
     retries = 0
@@ -143,8 +158,12 @@ def railway_bogie_detection():
     output_dirs = {class_id: f'images/{class_labels[class_id]}' for class_id in target_class_ids}
     for output_dir in output_dirs.values():
         os.makedirs(output_dir, exist_ok=True)
+    
+    detection_counts = {class_id: 0 for class_id in target_class_ids}
     max_retries = 10000  # Maximum number of retries
     retry_count = 0  # Counter for retry attempts
+
+    wheel_detected = False
     while True:
         # Read motion status from JSON file
         motion_detected = read_motion_status()
@@ -171,7 +190,7 @@ def railway_bogie_detection():
         detections = net.Detect(img, overlay=args.overlay)
         #print("detected {:d} objects in image".format(len(detections)))
 
-        timestamp = datetime.datetime.now().strftime(args.timestamp)
+        timestamp = datetime.now().strftime('%Y_%m_%d_%H_%M_%S_2000')#datetime.datetime.now().strftime(args.timestamp)
 
         # Perform actions based on motion status
         if motion_detected == "True":
@@ -208,14 +227,46 @@ def railway_bogie_detection():
                 class_label = class_labels[class_id]
                 
                 snapshot_dir = output_dirs[class_id]
-                snapshot_filename = f"{class_label}-{timestamp}-{idx}.jpg"
-                snapshot_pil.save(os.path.join(snapshot_dir, snapshot_filename))
+                ###############################
+                #detection_counts initialized outside loop check onece if problem found
+                detection_counts[class_id] += 1  # Increment the detection count
+                print({detection_counts[class_id]})
+                Comoponent_Name=class_label
+                path="/home/jetson/Documents"
+                path_to_save_images=f"{path}/{time_stamp}/{time_stamp}_Coach_1/Component_Images"
+                print("path_to_save_images",path_to_save_images)
+                snapshot_filename = f"{timestamp}_BV_LH_{Comoponent_Name}_{detection_counts[class_id]}.jpg"
+
+                #snapshot_filename = f"{Comoponent_Name}_{timestamp}_{detection_counts[class_id]}.jpg"
+
+                snapshot_pil.save(os.path.join(path_to_save_images, snapshot_filename))
+
+                #########################################
+
+                #snapshot_filename = f"{class_label}-{timestamp}-{idx}.jpg"
+                #snapshot_pil.save(os.path.join(snapshot_dir, snapshot_filename))
                 #app_event.debug(f"Saved image: {snapshot_filename}")
                 Component = class_label
                 if Component == "Track":
                     print("Skipping class ID 5 detection")  # Debugging statement
                     continue
                 print(Component)
+                if Component == "Wheel":
+                    if not wheel_detected:
+                        print("Write_Train_Start_On_Wheel_Detection")  # Debugging statement
+                        Write = "Wheel_Detected_True"
+                        Write_Train_Start_On_Wheel_Detection(Write)
+                        wheel_detected = True
+                        start_time = time.time()
+                    elif time.time() - start_time < 180:
+                        continue  # Maintain Wheel_Detected_True for 2 minutes
+                else:
+                    if wheel_detected and time.time() - start_time >= 120:
+                        print("Write_Train_Start_On_Wheel_Detection")  # Debugging statement
+                        Write = "Wheel_Detected_False"
+                        Write_Train_Start_On_Wheel_Detection(Write)
+                        wheel_detected = False
+                        continue
                 insert_record_into_tblMvis_Events(timestamp,time_stamp,Component)
                 print("componnrt",Component)
                 cudaDeviceSynchronize()

@@ -1,19 +1,19 @@
 {
   "database": {
     "driver": "{SQL Server}",
-    "server": "DESKTOP-26IR701",
+    "server": "4MVDUGL\\SQLEXPRESS",
     "database_name": "HBDDB",
-    "username": "sa",
-    "password": "sa"
+    "username": "",
+    "password": ""
   },
 
   
     "cloud_database": {
     "driver": "{SQL Server}",
     "server": "103.120.176.21",
-    "database_name": "noviusr1_1000_HAHW_TEST-BENCH-SYSTEM",
-    "username": "noviusr1_noviusr1",
-    "password": "Yoj9IbR0y#M%"
+    "database_name": "4MVDUGL\\SQLEXPRESS",
+    "username": "",
+    "password": ""
 }
 }
 

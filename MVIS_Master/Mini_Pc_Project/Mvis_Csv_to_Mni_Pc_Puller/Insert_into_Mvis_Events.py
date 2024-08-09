@@ -50,12 +50,12 @@ def insert_into_cloud_temp_log(conn, data):
     # Insert fetched data into the cloud database (tblTemperatureLog table)
     cursor = conn.cursor()
     insert_query = '''
-        INSERT INTO [noviusr1_MVISCopy].[dbo].[MVIS_left](Code, Time_stamp, Component, Parameter, Status)
+        INSERT INTO [MVIS].[noviusr1_noviusr1].[MVIS_left](Code, Time_stamp, Component, Parameter, Status)
         VALUES (?, ?, ?, ?, ?)
     '''
     cursor.executemany(insert_query, data)
     conn.commit()
-    print("Data inserted into cloud database successfully.")
+    print("Data inserted into Mini_PC MVIStbl database successfully.")
 
     return data  # Return the inserted data
 

@@ -1,0 +1,520 @@
+2024-08-09 19:43:37,106 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:38,261 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:39,429 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:40,591 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:41,728 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:42,883 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:44,037 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:45,172 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:46,306 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:47,416 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:48,590 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:49,669 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:50,843 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:51,969 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:53,134 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:54,299 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:55,439 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:56,621 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:57,750 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:43:58,894 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:00,055 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:01,212 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:02,353 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:03,485 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:04,671 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:05,812 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:06,965 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:08,109 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:09,280 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:10,373 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:11,511 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:12,652 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:13,784 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:14,993 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:16,191 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:17,314 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:18,459 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:19,623 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:20,768 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:21,902 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:23,019 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:24,184 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:25,340 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:26,494 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:27,687 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:28,819 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:29,958 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:31,017 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:32,158 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:33,308 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:34,445 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:35,590 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:36,717 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:37,901 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:39,033 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:40,183 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:41,341 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:42,524 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:43,663 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:44,806 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:45,974 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:47,112 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:48,256 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:49,387 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:50,524 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:51,620 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:52,786 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:53,942 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:55,080 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:56,194 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:57,325 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:58,465 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:44:59,614 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:00,733 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:01,925 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:03,028 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:04,206 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:05,341 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:06,489 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:07,602 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:08,846 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:09,964 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:11,026 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:12,185 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:13,313 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:13,985 - app_event - INFO - data_to_insert('2024_08_09_19_42_48_2000', 22, '8   8  58  33  735977000', 682, 0, datetime.datetime(2024, 8, 9, 19, 45, 13, 984731))
+2024-08-09 19:45:14,078 - app_event - INFO - data_to_insert('2024_08_09_19_42_48_2000', 23, '8   8  58  34  212492000', 682, 0, datetime.datetime(2024, 8, 9, 19, 45, 14, 78142))
+2024-08-09 19:45:14,162 - app_event - INFO - data_to_insert('2024_08_09_19_42_48_2000', 24, '8   8  58  34  742462000', 682, 0, datetime.datetime(2024, 8, 9, 19, 45, 14, 160183))
+2024-08-09 19:45:14,242 - app_event - INFO - data_to_insert('2024_08_09_19_42_48_2000', 25, '8   8  58  35  262341000', 682, 34, datetime.datetime(2024, 8, 9, 19, 45, 14, 241465))
+2024-08-09 19:45:14,345 - app_event - INFO - data_to_insert('2024_08_09_19_42_48_2000', 26, '8   8  58  35  747748000', 682, 0, datetime.datetime(2024, 8, 9, 19, 45, 14, 343674))
+2024-08-09 19:45:14,447 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:14,512 - app_event - INFO - data_to_insert('2024_08_09_19_42_48_2000', 27, '8   8  58  36  257569000', 716, 34, datetime.datetime(2024, 8, 9, 19, 45, 14, 511137))
+2024-08-09 19:45:14,579 - app_event - INFO - data_to_insert('2024_08_09_19_42_48_2000', 28, '8   8  58  36  733751000', 716, 0, datetime.datetime(2024, 8, 9, 19, 45, 14, 578090))
+2024-08-09 19:45:14,656 - app_event - INFO - data_to_insert('2024_08_09_19_42_48_2000', 29, '8   8  58  37  208639000', 682, 0, datetime.datetime(2024, 8, 9, 19, 45, 14, 655203))
+2024-08-09 19:45:14,752 - app_event - INFO - data_to_insert('2024_08_09_19_42_48_2000', 30, '8   8  58  37  706636000', 682, 0, datetime.datetime(2024, 8, 9, 19, 45, 14, 750745))
+2024-08-09 19:45:14,859 - app_event - INFO - data_to_insert('2024_08_09_19_42_48_2000', 31, '8   8  58  38  181612000', 682, 0, datetime.datetime(2024, 8, 9, 19, 45, 14, 858263))
+2024-08-09 19:45:15,582 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:16,769 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:17,873 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:19,009 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:20,134 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:21,290 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:22,419 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:23,569 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:24,693 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:25,811 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:26,961 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:28,155 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:29,312 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:30,494 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:31,594 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:32,743 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:33,945 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:35,075 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:36,211 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:37,350 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:38,498 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:39,648 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:40,781 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:41,929 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:43,081 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:44,244 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:45,373 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:46,529 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:47,707 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:48,820 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:49,944 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:51,081 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:52,159 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:53,318 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:54,455 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:55,603 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:56,745 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:57,864 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:45:58,993 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:00,138 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:01,290 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:02,457 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:03,637 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:04,819 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:05,955 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:07,125 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:08,266 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:09,433 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:10,632 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:11,751 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:12,829 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:14,043 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:15,220 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:16,367 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:17,523 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:18,681 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:19,828 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:20,949 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:22,103 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:23,342 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:24,518 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:25,682 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:26,818 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:27,954 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:29,106 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:30,258 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:31,414 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:32,477 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:33,613 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:34,761 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:35,934 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:37,100 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:38,274 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:39,377 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:40,513 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:41,671 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:42,805 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:43,957 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:45,121 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:46,252 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:47,410 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:48,557 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:49,701 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:50,868 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:52,059 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:53,137 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:54,299 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:55,431 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:56,591 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:57,750 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:46:58,890 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:00,030 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:01,168 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:02,372 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:03,502 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:04,677 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:05,804 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:06,936 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:08,113 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:09,261 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:10,380 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:11,527 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:12,681 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:13,776 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:14,918 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:16,118 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:17,281 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:18,419 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:19,559 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:20,704 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:21,892 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:23,081 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:24,241 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:25,356 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:26,490 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:27,591 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:28,725 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:29,925 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:31,058 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:32,188 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:33,330 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:34,428 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:35,574 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:36,702 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:37,850 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:38,981 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:40,134 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:41,303 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:42,522 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:43,678 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:44,799 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:46,004 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:47,162 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:48,297 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:49,483 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:50,645 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:51,780 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:52,926 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:53,994 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:55,174 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:56,357 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:57,497 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:58,687 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:47:59,825 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:01,017 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:02,164 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:03,346 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:04,484 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:05,668 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:06,847 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:07,983 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:09,126 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:10,267 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:11,412 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:12,568 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:13,724 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:14,812 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:15,955 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:17,103 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:18,234 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:19,446 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:20,606 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:21,756 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:22,873 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:24,062 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:25,214 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:26,434 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:27,599 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:28,726 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:29,843 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:30,971 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:32,097 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:33,273 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:48:34,460 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 19:49:05,672 - app_event - INFO - received train_id from main fetch_temperature=None
+2024-08-09 19:49:05,679 - app_event - INFO - fetch_temperature=[]
+2024-08-09 19:49:05,679 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-09 19:49:10,683 - app_event - INFO - received train_id from main fetch_temperature=None
+2024-08-09 19:49:10,684 - app_event - INFO - fetch_temperature=[]
+2024-08-09 19:49:10,686 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-09 20:16:54,801 - app_event - INFO - received train_id from main fetch_temperature=None
+2024-08-09 20:16:54,804 - app_event - INFO - fetch_temperature=[]
+2024-08-09 20:16:54,805 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-09 20:16:59,808 - app_event - INFO - received train_id from main fetch_temperature=None
+2024-08-09 20:16:59,810 - app_event - INFO - fetch_temperature=[]
+2024-08-09 20:16:59,811 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-09 20:19:10,117 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:19:10,165 - app_event - INFO - data_to_insert('2024_08_09_20_19_10_2000', 1, '8   8  56  29  229895000', 716, 0, datetime.datetime(2024, 8, 9, 20, 19, 10, 165332))
+2024-08-09 20:19:11,203 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:19:12,263 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:19:13,333 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:19:14,447 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:19:15,514 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:19:16,617 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:19:17,690 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:31:54,429 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:31:54,528 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 1, '8   8  56  29  229895000', 716, 0, datetime.datetime(2024, 8, 9, 20, 31, 54, 528147))
+2024-08-09 20:31:54,596 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 2, '8   8  56  29  750434000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 54, 596543))
+2024-08-09 20:31:54,697 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 3, '8   8  56  30  436448000', 682, 34, datetime.datetime(2024, 8, 9, 20, 31, 54, 697205))
+2024-08-09 20:31:54,807 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 4, '8   8  56  30  934377000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 54, 805923))
+2024-08-09 20:31:54,910 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 5, '8   8  56  31  432721000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 54, 910112))
+2024-08-09 20:31:55,011 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 6, '8   8  56  31  940391000', 682, 34, datetime.datetime(2024, 8, 9, 20, 31, 55, 10706))
+2024-08-09 20:31:55,115 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 7, '8   8  56  32  450625000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 55, 115263))
+2024-08-09 20:31:55,185 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 8, '8   8  56  32  969774000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 55, 185214))
+2024-08-09 20:31:55,290 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 9, '8   8  56  33  499790000', 682, 34, datetime.datetime(2024, 8, 9, 20, 31, 55, 289542))
+2024-08-09 20:31:55,395 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 10, '8   8  56  34   19485000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 55, 394820))
+2024-08-09 20:31:55,466 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 11, '8   8  56  34  551307000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 55, 465034))
+2024-08-09 20:31:55,581 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:31:55,628 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 12, '8   8  56  35   70527000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 55, 627710))
+2024-08-09 20:31:55,749 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 13, '8   8  56  35  623605000', 716, 0, datetime.datetime(2024, 8, 9, 20, 31, 55, 748834))
+2024-08-09 20:31:55,858 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 14, '8   8  56  36  132366000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 55, 857620))
+2024-08-09 20:31:55,940 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 15, '8   8  56  36  652369000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 55, 940555))
+2024-08-09 20:31:56,038 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 16, '8   8  56  37  171735000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 56, 37785))
+2024-08-09 20:31:56,112 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 17, '8   8  56  37  680674000', 682, 34, datetime.datetime(2024, 8, 9, 20, 31, 56, 110870))
+2024-08-09 20:31:56,211 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 18, '8   8  56  38  245687000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 56, 210597))
+2024-08-09 20:31:56,321 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 19, '8   8  56  38  943319000', 716, 34, datetime.datetime(2024, 8, 9, 20, 31, 56, 321388))
+2024-08-09 20:31:56,387 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 20, '8   8  56  39  538674000', 716, 34, datetime.datetime(2024, 8, 9, 20, 31, 56, 386616))
+2024-08-09 20:31:56,503 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 21, '8   8  56  40  112593000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 56, 502507))
+2024-08-09 20:31:56,616 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 22, '8   8  58  33  735977000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 56, 615610))
+2024-08-09 20:31:56,746 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:31:56,797 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 23, '8   8  58  34  212492000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 56, 796512))
+2024-08-09 20:31:56,904 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 24, '8   8  58  34  742462000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 56, 903623))
+2024-08-09 20:31:56,981 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 25, '8   8  58  35  262341000', 682, 34, datetime.datetime(2024, 8, 9, 20, 31, 56, 980553))
+2024-08-09 20:31:57,074 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 26, '8   8  58  35  747748000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 57, 73773))
+2024-08-09 20:31:57,174 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 27, '8   8  58  36  257569000', 716, 34, datetime.datetime(2024, 8, 9, 20, 31, 57, 173308))
+2024-08-09 20:31:57,243 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 28, '8   8  58  36  733751000', 716, 0, datetime.datetime(2024, 8, 9, 20, 31, 57, 242269))
+2024-08-09 20:31:57,350 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 29, '8   8  58  37  208639000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 57, 349314))
+2024-08-09 20:31:57,450 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 30, '8   8  58  37  706636000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 57, 450562))
+2024-08-09 20:31:57,579 - app_event - INFO - data_to_insert('2024_08_09_20_31_54_2000', 31, '8   8  58  38  181612000', 682, 0, datetime.datetime(2024, 8, 9, 20, 31, 57, 578409))
+2024-08-09 20:31:57,891 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:31:59,163 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:00,339 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:01,465 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:02,621 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:03,797 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:04,946 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:06,100 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:07,242 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:08,427 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:09,588 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:10,739 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:11,930 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:13,084 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:14,221 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:15,277 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:16,450 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:17,581 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:18,742 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:19,892 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:21,052 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:22,158 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:23,305 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:24,448 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:25,594 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:26,730 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:27,872 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:29,053 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:30,181 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:31,363 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:32,564 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:33,758 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:34,909 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:36,068 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:37,169 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:38,290 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:39,466 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:40,589 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:41,713 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:42,859 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:43,997 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:45,144 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:46,290 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:47,405 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:49,800 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:49,911 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 1, '8   8  56  29  229895000', 716, 0, datetime.datetime(2024, 8, 9, 20, 32, 49, 910209))
+2024-08-09 20:32:49,987 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 2, '8   8  56  29  750434000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 49, 986699))
+2024-08-09 20:32:50,081 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 3, '8   8  56  30  436448000', 682, 34, datetime.datetime(2024, 8, 9, 20, 32, 50, 80846))
+2024-08-09 20:32:50,187 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 4, '8   8  56  30  934377000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 50, 187223))
+2024-08-09 20:32:50,263 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 5, '8   8  56  31  432721000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 50, 262297))
+2024-08-09 20:32:50,366 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 6, '8   8  56  31  940391000', 682, 34, datetime.datetime(2024, 8, 9, 20, 32, 50, 366005))
+2024-08-09 20:32:50,472 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 7, '8   8  56  32  450625000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 50, 471098))
+2024-08-09 20:32:50,539 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 8, '8   8  56  32  969774000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 50, 538419))
+2024-08-09 20:32:50,648 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 9, '8   8  56  33  499790000', 682, 34, datetime.datetime(2024, 8, 9, 20, 32, 50, 647374))
+2024-08-09 20:32:50,740 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 10, '8   8  56  34   19485000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 50, 739786))
+2024-08-09 20:32:50,880 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 11, '8   8  56  34  551307000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 50, 878595))
+2024-08-09 20:32:50,917 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:51,014 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 12, '8   8  56  35   70527000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 51, 13717))
+2024-08-09 20:32:51,121 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 13, '8   8  56  35  623605000', 716, 0, datetime.datetime(2024, 8, 9, 20, 32, 51, 120934))
+2024-08-09 20:32:51,196 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 14, '8   8  56  36  132366000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 51, 196812))
+2024-08-09 20:32:51,292 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 15, '8   8  56  36  652369000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 51, 292225))
+2024-08-09 20:32:51,400 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 16, '8   8  56  37  171735000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 51, 400831))
+2024-08-09 20:32:51,476 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 17, '8   8  56  37  680674000', 682, 34, datetime.datetime(2024, 8, 9, 20, 32, 51, 476315))
+2024-08-09 20:32:51,591 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 18, '8   8  56  38  245687000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 51, 591237))
+2024-08-09 20:32:51,702 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 19, '8   8  56  38  943319000', 716, 34, datetime.datetime(2024, 8, 9, 20, 32, 51, 701321))
+2024-08-09 20:32:51,775 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 20, '8   8  56  39  538674000', 716, 34, datetime.datetime(2024, 8, 9, 20, 32, 51, 774910))
+2024-08-09 20:32:51,874 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 21, '8   8  56  40  112593000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 51, 874089))
+2024-08-09 20:32:51,980 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 22, '8   8  58  33  735977000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 51, 979628))
+2024-08-09 20:32:52,078 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:52,141 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 23, '8   8  58  34  212492000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 52, 141230))
+2024-08-09 20:32:52,221 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 24, '8   8  58  34  742462000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 52, 220719))
+2024-08-09 20:32:52,330 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 25, '8   8  58  35  262341000', 682, 34, datetime.datetime(2024, 8, 9, 20, 32, 52, 330198))
+2024-08-09 20:32:52,429 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 26, '8   8  58  35  747748000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 52, 429086))
+2024-08-09 20:32:52,533 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 27, '8   8  58  36  257569000', 716, 34, datetime.datetime(2024, 8, 9, 20, 32, 52, 532286))
+2024-08-09 20:32:52,639 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 28, '8   8  58  36  733751000', 716, 0, datetime.datetime(2024, 8, 9, 20, 32, 52, 638529))
+2024-08-09 20:32:52,704 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 29, '8   8  58  37  208639000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 52, 703609))
+2024-08-09 20:32:52,804 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 30, '8   8  58  37  706636000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 52, 803174))
+2024-08-09 20:32:52,900 - app_event - INFO - data_to_insert('2024_08_09_20_32_49_2000', 31, '8   8  58  38  181612000', 682, 0, datetime.datetime(2024, 8, 9, 20, 32, 52, 899307))
+2024-08-09 20:32:53,254 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:54,422 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:55,571 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:56,716 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:57,897 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:32:59,016 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:00,165 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:01,328 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:02,504 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:03,672 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:04,824 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:06,012 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:07,190 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:08,351 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:09,492 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:10,607 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:11,737 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:12,904 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:14,041 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:15,246 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:16,394 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:17,575 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:18,709 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:19,890 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:21,078 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:22,294 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:23,443 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:24,568 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:25,782 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:26,954 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:28,120 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:29,321 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:30,486 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:31,655 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:32,748 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:33,893 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:35,044 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:36,166 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:37,304 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:38,523 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:39,673 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:40,844 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:41,993 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:43,120 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:44,309 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:45,450 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:46,652 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:47,792 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:48,921 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:50,092 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:51,252 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:52,444 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:53,518 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:54,632 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:55,726 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:56,856 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:57,974 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:33:59,161 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:34:00,275 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:34:01,490 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:34:02,656 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:34:03,832 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:34:05,028 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:34:06,190 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:34:07,376 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:34:08,507 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:34:09,646 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:34:10,814 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:34:11,954 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:34:13,111 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:37:57,898 - app_event - INFO - received train_id from main fetch_temperature=None
+2024-08-09 20:37:57,902 - app_event - INFO - fetch_temperature=[]
+2024-08-09 20:37:57,903 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-09 20:38:02,915 - app_event - INFO - received train_id from main fetch_temperature=None
+2024-08-09 20:38:02,916 - app_event - INFO - fetch_temperature=[]
+2024-08-09 20:38:02,917 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-09 20:40:08,520 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:40:08,587 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 1, '8   8  56  29  229895000', 716, 0, datetime.datetime(2024, 8, 9, 20, 40, 8, 587200))
+2024-08-09 20:40:08,666 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 2, '8   8  56  29  750434000', 682, 0, datetime.datetime(2024, 8, 9, 20, 40, 8, 665981))
+2024-08-09 20:40:08,776 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 3, '8   8  56  30  436448000', 682, 34, datetime.datetime(2024, 8, 9, 20, 40, 8, 775701))
+2024-08-09 20:40:08,886 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 4, '8   8  56  30  934377000', 682, 0, datetime.datetime(2024, 8, 9, 20, 40, 8, 884232))
+2024-08-09 20:40:09,026 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 5, '8   8  56  31  432721000', 682, 0, datetime.datetime(2024, 8, 9, 20, 40, 9, 25076))
+2024-08-09 20:40:09,137 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 6, '8   8  56  31  940391000', 682, 34, datetime.datetime(2024, 8, 9, 20, 40, 9, 137025))
+2024-08-09 20:40:09,209 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 7, '8   8  56  32  450625000', 682, 0, datetime.datetime(2024, 8, 9, 20, 40, 9, 208671))
+2024-08-09 20:40:09,310 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 8, '8   8  56  32  969774000', 682, 0, datetime.datetime(2024, 8, 9, 20, 40, 9, 309237))
+2024-08-09 20:40:09,421 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 9, '8   8  56  33  499790000', 682, 34, datetime.datetime(2024, 8, 9, 20, 40, 9, 420067))
+2024-08-09 20:40:09,453 - app_event - INFO - received train_id from main fetch_temperature=2024_08_09_20_40_08_2000
+2024-08-09 20:40:09,454 - app_event - INFO - fetch_temperature=[('2024_08_09_20_40_08_2000', '1', '8   8  56  29  229895000', 716, 0, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '2', '8   8  56  29  750434000', 682, 0, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '3', '8   8  56  30  436448000', 682, 34, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '4', '8   8  56  30  934377000', 682, 0, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '5', '8   8  56  31  432721000', 682, 0, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '6', '8   8  56  31  940391000', 682, 34, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '7', '8   8  56  32  450625000', 682, 0, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '8', '8   8  56  32  969774000', 682, 0, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '9', '8   8  56  33  499790000', 682, 34, 'Aug  9 2024  8:40PM')]
+2024-08-09 20:40:09,457 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-09 20:40:09,464 - app_event - INFO - received train_id from main fetch_temperature=2024_08_09_20_40_08_2000
+2024-08-09 20:40:09,465 - app_event - INFO - fetch_temperature=[('2024_08_09_20_40_08_2000', '1', '8   8  56  29  229895000', 716, 0, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '2', '8   8  56  29  750434000', 682, 0, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '3', '8   8  56  30  436448000', 682, 34, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '4', '8   8  56  30  934377000', 682, 0, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '5', '8   8  56  31  432721000', 682, 0, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '6', '8   8  56  31  940391000', 682, 34, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '7', '8   8  56  32  450625000', 682, 0, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '8', '8   8  56  32  969774000', 682, 0, 'Aug  9 2024  8:40PM'), ('2024_08_09_20_40_08_2000', '9', '8   8  56  33  499790000', 682, 34, 'Aug  9 2024  8:40PM')]
+2024-08-09 20:40:09,470 - app_event - DEBUG - calculate_temperatures
+2024-08-09 20:40:09,472 - app_event - DEBUG - calculate_temperatures
+2024-08-09 20:40:09,473 - app_event - DEBUG - calculate_temperatures
+2024-08-09 20:40:09,476 - app_event - DEBUG - calculate_temperatures
+2024-08-09 20:40:09,479 - app_event - DEBUG - calculate_temperatures
+2024-08-09 20:40:09,481 - app_event - DEBUG - calculate_temperatures
+2024-08-09 20:40:09,483 - app_event - DEBUG - calculate_temperatures
+2024-08-09 20:40:09,485 - app_event - DEBUG - calculate_temperatures
+2024-08-09 20:40:09,486 - app_event - DEBUG - calculate_temperatures
+2024-08-09 20:40:09,495 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 10, '8   8  56  34   19485000', 682, 0, datetime.datetime(2024, 8, 9, 20, 40, 9, 494093))
+2024-08-09 20:40:09,497 - app_event - DEBUG - insert_temperature_calculations
+2024-08-09 20:40:09,499 - app_event - DEBUG - insert_temperature_calculations
+2024-08-09 20:40:09,502 - app_event - DEBUG - insert_temperature_calculations
+2024-08-09 20:40:09,503 - app_event - DEBUG - insert_temperature_calculations
+2024-08-09 20:40:09,505 - app_event - DEBUG - insert_temperature_calculations
+2024-08-09 20:40:09,508 - app_event - DEBUG - insert_temperature_calculations
+2024-08-09 20:40:09,509 - app_event - DEBUG - insert_temperature_calculations
+2024-08-09 20:40:09,511 - app_event - DEBUG - insert_temperature_calculations
+2024-08-09 20:40:09,513 - app_event - DEBUG - insert_temperature_calculations
+2024-08-09 20:40:09,517 - app_event - DEBUG - fetch_temperature monitor train()=
+2024-08-09 20:40:09,618 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 11, '8   8  56  34  551307000', 682, 0, datetime.datetime(2024, 8, 9, 20, 40, 9, 617020))
+2024-08-09 20:40:09,668 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 20:40:09,779 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 12, '8   8  56  35   70527000', 682, 0, datetime.datetime(2024, 8, 9, 20, 40, 9, 778089))
+2024-08-09 20:40:09,869 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 13, '8   8  56  35  623605000', 716, 0, datetime.datetime(2024, 8, 9, 20, 40, 9, 869024))
+2024-08-09 20:40:09,963 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 14, '8   8  56  36  132366000', 682, 0, datetime.datetime(2024, 8, 9, 20, 40, 9, 962442))
+2024-08-09 20:40:10,064 - app_event - INFO - data_to_insert('2024_08_09_20_40_08_2000', 15, '8   8  56  36  652369000', 682, 0, datetime.datetime(2024, 8, 9, 20, 40, 10, 63901))

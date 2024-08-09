@@ -16,6 +16,7 @@ from Monitor_Folder import FileRotator
 from functools import wraps
 from Video_Recorder import VideoRecorder
 from Folder_Manager import FolderManager
+from json.decoder import JSONDecodeError  # Import JSONDecodeError
 '''
 def retry(exceptions, tries=31536063734300000, delay=1, backoff=2):
     def decorator_retry(func):
@@ -140,7 +141,7 @@ def railway_wheel_motion():
     Mvis_Csv.insert_into_tblGridview_to_start_train(share_assign_time_stamp)
     
     # Capture frames until end-of-stream (or the user exits)
-    while True:
+    while True:        
         try:
             image = input_source.Capture()
         except Exception as e:

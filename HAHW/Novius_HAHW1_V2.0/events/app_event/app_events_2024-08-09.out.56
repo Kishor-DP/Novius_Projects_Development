@@ -1,0 +1,468 @@
+2024-08-09 06:26:48,345 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 143, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 344912))
+2024-08-09 06:26:48,394 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:26:48,396 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 144, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 395113))
+2024-08-09 06:26:48,407 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 145, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 407137))
+2024-08-09 06:26:48,423 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 146, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 421699))
+2024-08-09 06:26:48,438 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 147, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 438768))
+2024-08-09 06:26:48,454 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 148, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 453297))
+2024-08-09 06:26:48,468 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 149, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 468858))
+2024-08-09 06:26:48,528 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 150, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 516039))
+2024-08-09 06:26:48,605 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 151, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 604407))
+2024-08-09 06:26:48,636 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 152, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 636020))
+2024-08-09 06:26:48,746 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 153, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 745102))
+2024-08-09 06:26:48,791 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 154, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 790260))
+2024-08-09 06:26:48,804 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 155, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 803886))
+2024-08-09 06:26:48,839 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 156, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 837479))
+2024-08-09 06:26:48,851 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 157, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 850083))
+2024-08-09 06:26:48,881 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 158, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 880648))
+2024-08-09 06:26:48,896 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 159, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 896235))
+2024-08-09 06:26:48,911 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 160, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 910813))
+2024-08-09 06:26:48,926 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 161, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 926881))
+2024-08-09 06:26:48,941 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 162, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 941994))
+2024-08-09 06:26:48,972 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 163, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 972527))
+2024-08-09 06:26:48,988 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 164, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 48, 987079))
+2024-08-09 06:26:49,005 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 165, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 4653))
+2024-08-09 06:26:49,066 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 166, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 65936))
+2024-08-09 06:26:49,095 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 167, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 94077))
+2024-08-09 06:26:49,125 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 168, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 125236))
+2024-08-09 06:26:49,141 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 169, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 140346))
+2024-08-09 06:26:49,156 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 170, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 155898))
+2024-08-09 06:26:49,172 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 171, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 172464))
+2024-08-09 06:26:49,189 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 172, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 189590))
+2024-08-09 06:26:49,207 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 173, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 206157))
+2024-08-09 06:26:49,232 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 174, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 231741))
+2024-08-09 06:26:49,248 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 175, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 247365))
+2024-08-09 06:26:49,263 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 176, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 262919))
+2024-08-09 06:26:49,278 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 177, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 277485))
+2024-08-09 06:26:49,293 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 178, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 293564))
+2024-08-09 06:26:49,309 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 179, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 309111))
+2024-08-09 06:26:49,325 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 180, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 324183))
+2024-08-09 06:26:49,340 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 181, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 339790))
+2024-08-09 06:26:49,356 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 182, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 356352))
+2024-08-09 06:26:49,375 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 183, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 372433))
+2024-08-09 06:26:49,404 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 184, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 404607))
+2024-08-09 06:26:49,415 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:26:49,431 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 185, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 430736))
+2024-08-09 06:26:49,446 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 186, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 445987))
+2024-08-09 06:26:49,462 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 187, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 461411))
+2024-08-09 06:26:49,476 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 188, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 475966))
+2024-08-09 06:26:49,492 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 189, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 491527))
+2024-08-09 06:26:49,508 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 190, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 507323))
+2024-08-09 06:26:49,524 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 191, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 523106))
+2024-08-09 06:26:49,538 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 192, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 537704))
+2024-08-09 06:26:49,559 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 193, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 559252))
+2024-08-09 06:26:49,598 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 194, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 597461))
+2024-08-09 06:26:49,629 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 195, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 629705))
+2024-08-09 06:26:49,645 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 196, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 644585))
+2024-08-09 06:26:49,676 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 197, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 675330))
+2024-08-09 06:26:49,721 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 198, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 720674))
+2024-08-09 06:26:49,737 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 199, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 736735))
+2024-08-09 06:26:49,752 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 200, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 751788))
+2024-08-09 06:26:49,765 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 201, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 765854))
+2024-08-09 06:26:49,781 - app_event - INFO - data_to_insert('2024_08_09_06_26_45_2000', 202, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 26, 49, 781393))
+2024-08-09 06:26:50,463 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:26:51,521 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:26:52,541 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:26:53,605 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:26:54,648 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:26:55,680 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:26:56,698 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:26:57,732 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:26:58,754 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:26:59,761 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:00,809 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:01,854 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:02,902 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:03,953 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:05,007 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:06,032 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:07,071 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:08,119 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:09,153 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:10,177 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:11,209 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:12,229 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:13,245 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:14,267 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:15,290 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:16,321 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:17,342 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:18,354 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:19,376 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:20,402 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:21,437 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:22,455 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:23,500 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:24,552 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:25,602 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:26,634 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:27,681 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:28,716 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:29,766 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:30,796 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:31,846 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:32,908 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:33,938 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:34,971 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:35,990 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:37,033 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:38,068 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:39,088 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:40,152 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:41,171 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:42,189 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:43,219 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:44,286 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:45,312 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:46,335 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:47,403 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:48,422 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:49,441 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:50,517 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:51,529 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:52,555 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:53,575 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:54,608 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:55,654 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:56,684 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:57,707 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:58,730 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:27:59,762 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:00,811 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:01,839 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:02,853 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:03,902 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:04,929 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:05,985 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:07,013 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:08,068 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:09,090 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:10,130 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:11,161 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:12,186 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:13,205 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:14,226 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:15,275 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:16,310 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:17,344 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:18,365 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:19,427 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:20,453 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:21,502 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:22,534 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:23,570 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:24,603 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:25,646 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:26,694 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:27,713 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:28,739 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:29,772 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:30,837 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:31,861 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:32,911 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:33,934 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:34,955 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:35,974 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:36,994 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:38,012 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:39,043 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:40,065 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:41,096 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:42,194 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:43,240 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:44,272 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:45,293 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:46,318 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:47,381 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:48,415 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:49,445 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:50,469 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:51,489 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:52,519 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:53,553 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:54,572 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:55,593 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:56,629 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:57,651 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:58,685 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:28:59,719 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:00,755 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:01,774 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:02,795 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:03,816 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:04,852 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:05,891 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:06,928 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:07,951 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:08,982 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:10,025 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:11,089 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:12,115 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:13,136 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:14,185 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:15,217 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:16,231 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:17,281 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:18,331 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:19,365 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:20,392 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:21,429 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:22,465 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:23,485 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:24,505 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:25,538 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:26,547 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:27,645 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:28,706 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:29,751 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:30,781 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:31,817 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:32,864 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:33,884 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:34,945 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:35,999 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:37,022 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:38,052 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:39,071 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:40,101 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:41,134 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:42,196 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:43,233 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:44,259 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:45,306 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:46,353 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:47,377 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:48,438 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:49,457 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:50,476 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:51,497 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:52,546 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:53,585 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:54,608 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:55,628 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:56,672 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:57,711 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:58,748 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:29:59,793 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:00,824 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:01,843 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:02,876 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:03,923 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:04,951 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:05,970 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:06,991 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:08,012 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:09,051 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:10,100 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:11,123 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:12,145 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:13,173 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:14,190 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:15,223 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:16,243 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:17,265 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:18,290 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:19,313 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:20,346 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:21,376 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:22,408 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:23,431 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:24,488 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:25,523 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:26,640 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:27,680 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:28,707 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:29,735 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:30,771 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:31,841 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:30:32,877 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:33,909 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:34,926 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:35,944 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:37,003 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:38,053 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:39,108 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:40,130 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:41,152 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:42,185 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:43,215 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:44,251 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:45,285 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:46,318 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:47,340 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:48,375 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:49,424 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:50,447 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:51,467 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:52,517 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:53,553 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:54,576 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:55,653 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:56,704 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:57,724 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:58,741 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:30:59,760 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:00,779 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:01,814 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:02,850 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:03,868 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:04,890 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:05,910 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:06,916 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:07,957 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:08,966 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:10,003 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:11,022 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:12,063 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:13,088 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:14,107 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:15,147 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:16,167 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:17,182 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:18,215 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:19,253 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:20,274 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:21,299 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:22,323 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:23,335 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:24,363 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:25,398 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:26,415 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:27,467 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:28,488 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:29,495 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:30,528 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:31,545 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:32,576 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:33,610 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:34,691 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:35,733 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:36,750 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:37,809 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:38,846 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:39,875 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:40,898 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:41,920 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:42,943 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:43,950 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:44,970 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:46,005 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:47,024 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:48,056 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:49,077 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:50,107 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:51,124 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:52,145 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:53,197 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:54,240 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:55,262 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:56,273 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:57,302 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:58,323 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:31:59,349 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:32:00,378 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:32:01,399 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:32:02,431 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:32:03,456 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:32:04,494 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:32:05,505 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:32:06,538 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:32:07,573 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:32:08,596 - app_event - INFO - Train_Start_NodeId value: False
+2024-08-09 06:32:09,676 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:32:09,692 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 114, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 691790))
+2024-08-09 06:32:09,707 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 115, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 707334))
+2024-08-09 06:32:09,739 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 116, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 738369))
+2024-08-09 06:32:09,755 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 117, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 755421))
+2024-08-09 06:32:09,799 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 118, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 798438))
+2024-08-09 06:32:09,830 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 119, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 829052))
+2024-08-09 06:32:09,845 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 120, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 844754))
+2024-08-09 06:32:09,859 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 121, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 859118))
+2024-08-09 06:32:09,875 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 122, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 874649))
+2024-08-09 06:32:09,921 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 123, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 920313))
+2024-08-09 06:32:09,935 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 124, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 934498))
+2024-08-09 06:32:09,949 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 125, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 949809))
+2024-08-09 06:32:09,964 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 126, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 963854))
+2024-08-09 06:32:09,980 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 127, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 9, 979351))
+2024-08-09 06:32:10,025 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 128, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 24296))
+2024-08-09 06:32:10,056 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 129, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 55225))
+2024-08-09 06:32:10,072 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 130, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 71893))
+2024-08-09 06:32:10,088 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 131, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 87964))
+2024-08-09 06:32:10,115 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 132, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 115746))
+2024-08-09 06:32:10,131 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 133, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 130828))
+2024-08-09 06:32:10,147 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 134, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 146387))
+2024-08-09 06:32:10,162 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 135, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 161553))
+2024-08-09 06:32:10,177 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 136, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 176101))
+2024-08-09 06:32:10,192 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 137, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 191168))
+2024-08-09 06:32:10,207 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 138, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 206232))
+2024-08-09 06:32:10,223 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 139, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 222303))
+2024-08-09 06:32:10,239 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 140, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 238365))
+2024-08-09 06:32:10,254 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 141, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 253941))
+2024-08-09 06:32:10,269 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 142, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 268960))
+2024-08-09 06:32:10,286 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 143, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 284047))
+2024-08-09 06:32:10,300 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 144, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 299073))
+2024-08-09 06:32:10,330 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 145, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 330187))
+2024-08-09 06:32:10,346 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 146, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 345280))
+2024-08-09 06:32:10,361 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 147, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 360300))
+2024-08-09 06:32:10,376 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 148, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 376290))
+2024-08-09 06:32:10,391 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 149, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 390427))
+2024-08-09 06:32:10,407 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 150, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 406496))
+2024-08-09 06:32:10,423 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 151, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 422043))
+2024-08-09 06:32:10,438 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 152, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 438579))
+2024-08-09 06:32:10,469 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 153, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 468700))
+2024-08-09 06:32:10,483 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 154, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 482784))
+2024-08-09 06:32:10,513 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 155, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 513409))
+2024-08-09 06:32:10,529 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 156, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 528961))
+2024-08-09 06:32:10,545 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 157, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 544052))
+2024-08-09 06:32:10,559 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 158, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 559638))
+2024-08-09 06:32:10,575 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 159, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 574839))
+2024-08-09 06:32:10,590 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 160, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 590293))
+2024-08-09 06:32:10,639 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 161, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 636954))
+2024-08-09 06:32:10,653 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 162, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 652914))
+2024-08-09 06:32:10,666 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 163, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 666663))
+2024-08-09 06:32:10,682 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 164, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 681713))
+2024-08-09 06:32:10,697 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:32:10,699 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 165, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 698266))
+2024-08-09 06:32:10,713 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 166, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 712308))
+2024-08-09 06:32:10,728 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 167, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 727994))
+2024-08-09 06:32:10,742 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 168, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 742556))
+2024-08-09 06:32:10,758 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 169, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 757097))
+2024-08-09 06:32:10,774 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 170, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 773458))
+2024-08-09 06:32:10,789 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 171, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 788750))
+2024-08-09 06:32:10,805 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 172, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 804799))
+2024-08-09 06:32:10,820 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 173, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 819364))
+2024-08-09 06:32:10,835 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 174, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 833438))
+2024-08-09 06:32:10,880 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 175, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 879110))
+2024-08-09 06:32:10,895 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 176, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 894158))
+2024-08-09 06:32:10,910 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 177, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 909237))
+2024-08-09 06:32:10,926 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 178, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 925468))
+2024-08-09 06:32:10,940 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 179, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 939857))
+2024-08-09 06:32:10,955 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 180, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 955883))
+2024-08-09 06:32:10,971 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 181, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 971465))
+2024-08-09 06:32:10,989 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 182, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 10, 988017))
+2024-08-09 06:32:11,002 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 183, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 1032))
+2024-08-09 06:32:11,017 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 184, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 16107))
+2024-08-09 06:32:11,047 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 185, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 46250))
+2024-08-09 06:32:11,062 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 186, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 61316))
+2024-08-09 06:32:11,077 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 187, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 77463))
+2024-08-09 06:32:11,093 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 188, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 92962))
+2024-08-09 06:32:11,110 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 189, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 109088))
+2024-08-09 06:32:11,129 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 190, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 128173))
+2024-08-09 06:32:11,139 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 191, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 138229))
+2024-08-09 06:32:11,155 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 192, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 154753))
+2024-08-09 06:32:11,170 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 193, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 170335))
+2024-08-09 06:32:11,185 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 194, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 183928))
+2024-08-09 06:32:11,214 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 195, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 214582))
+2024-08-09 06:32:11,246 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 196, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 245183))
+2024-08-09 06:32:11,275 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 197, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 274829))
+2024-08-09 06:32:11,306 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 198, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 306460))
+2024-08-09 06:32:11,322 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 199, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 322004))
+2024-08-09 06:32:11,338 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 200, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 337616))
+2024-08-09 06:32:11,352 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 201, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 352151))
+2024-08-09 06:32:11,367 - app_event - INFO - data_to_insert('2024_08_09_06_32_07_2000', 202, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 11, 366226))
+2024-08-09 06:32:11,715 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-09 06:32:12,412 - app_event - INFO - data_to_insert('2024_08_09_06_32_09_2000', 1, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 12, 412236))
+2024-08-09 06:32:12,443 - app_event - INFO - data_to_insert('2024_08_09_06_32_09_2000', 2, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 12, 442786))
+2024-08-09 06:32:12,474 - app_event - INFO - data_to_insert('2024_08_09_06_32_09_2000', 3, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 12, 473618))
+2024-08-09 06:32:12,490 - app_event - INFO - data_to_insert('2024_08_09_06_32_09_2000', 4, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 12, 490021))
+2024-08-09 06:32:12,506 - app_event - INFO - data_to_insert('2024_08_09_06_32_09_2000', 5, '5 4 4 4 8748537456', 768, 34, datetime.datetime(2024, 8, 9, 6, 32, 12, 505926))

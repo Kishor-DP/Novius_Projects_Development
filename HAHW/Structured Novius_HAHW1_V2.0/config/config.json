@@ -1,0 +1,20 @@
+{
+    "opcua": {
+        "server_url": "opc.tcp://localhost:4840",
+        "node_ids": [205],
+        "train_start_nodeid": 3,
+        "interval": 1
+    },
+    "database": {
+        "driver": "{SQL Server}",
+        "server": "4MVDUGL\\SQLEXPRESS",
+        "database": "NVS_HAHW_V2",
+        "trusted_connection": "yes"
+    },
+    "logging": {
+        "level": "DEBUG",
+        "logfile": "opcua_data_receiver.log",
+        "max_bytes": 51200,
+        "backup_count": 100
+    }
+}

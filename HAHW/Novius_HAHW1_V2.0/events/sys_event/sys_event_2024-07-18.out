@@ -1,0 +1,5 @@
+2024-07-18 14:32:14,607 - sys_event - DEBUG - Error connecting to OPC UA server: 'module' object is not callable
+2024-07-18 14:32:14,615 - sys_event - DEBUG - Error reading from node IDs: 'NoneType' object has no attribute 'read'
+2024-07-18 14:43:56,694 - sys_event - DEBUG - Error connecting to OPC UA server: 'module' object is not callable
+2024-07-18 14:43:56,694 - sys_event - DEBUG - Error getting nodes: 'NoneType' object has no attribute 'get_node'
+2024-07-18 14:43:56,695 - sys_event - DEBUG - Error reading from nodes: 'NoneType' object has no attribute 'nodeid'
