@@ -1,4 +1,3 @@
-#Insert_Into_Temperature.py
 import time
 from datetime import datetime, timedelta
 import pyodbc
@@ -38,7 +37,6 @@ class OpcUaNodeScanner:
         logger.info("Disconnected from OPC UA server")
 
 class OpcUaDataReceiver:
-    
     def __init__(self, client, node_ids, train_start_nodeid, interval=1):
         self.client = client
         self.node_ids = node_ids
@@ -48,7 +46,7 @@ class OpcUaDataReceiver:
         self.last_inserted_count = {}
         self.current_train_id = None
         self.train_active = False  # Flag to track if TrainStart was True
-        
+
     def receive_data(self):
         self.nodes = [self.client.get_node(ua.NodeId(i, 4)) for i in self.node_ids]
 
@@ -132,30 +130,30 @@ class OpcUaDataReceiver:
         cursor.close()
         conn.close()
 
-# if __name__ == "__main__":
-#     # OPC UA Server Configuration
-#     server_url = "opc.tcp://192.168.1.2:4840"
-#     node_ids = range(4, 204)  # Range of node IDs to receive data from
-#     train_start_nodeid = 829  # Replace with your Train Start Node ID
-#     interval = 1  # Interval in seconds
+if __name__ == "__main__":
+    # OPC UA Server Configuration
+    server_url = "opc.tcp://192.168.1.2:4840"
+    node_ids = range(4, 204)  # Range of node IDs to receive data from
+    train_start_nodeid = 829  # Replace with your Train Start Node ID
+    interval = 1  # Interval in seconds
 
-#     # Initialize and connect to OPC UA Server
-#     scanner = OpcUaNodeScanner(server_url)
-#     scanner.connect()
+    # Initialize and connect to OPC UA Server
+    scanner = OpcUaNodeScanner(server_url)
+    scanner.connect()
 
-#     # Initialize OpcUaDataReceiver
-#     receiver = OpcUaDataReceiver(scanner.client, node_ids, train_start_nodeid, interval)
+    # Initialize OpcUaDataReceiver
+    receiver = OpcUaDataReceiver(scanner.client, node_ids, train_start_nodeid, interval)
 
-#     try:
-#         while True:
-#             # Receive data from OPC UA nodes and process it
-#             receiver.receive_data()
-#             time.sleep(interval)  # Wait for the specified interval before the next read
+    try:
+        while True:
+            # Receive data from OPC UA nodes and process it
+            receiver.receive_data()
+            time.sleep(interval)  # Wait for the specified interval before the next read
 
-#     except KeyboardInterrupt:
-#         logger.info("Stopping data receiver...")
+    except KeyboardInterrupt:
+        logger.info("Stopping data receiver...")
 
-#     finally:
-#         # Disconnect from OPC UA Server
-#         scanner.disconnect()
-#         logger.info("Data receiver stopped.")
+    finally:
+        # Disconnect from OPC UA Server
+        scanner.disconnect()
+        logger.info("Data receiver stopped.")
