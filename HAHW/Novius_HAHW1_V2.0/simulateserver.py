@@ -68,7 +68,7 @@ try:
     print(f"Initial TrainStartFlag set to {train_start_flag}")
 
     # Set auto-incrementing string values for all nodes
-    for i in range(3, 207):
+    for i in range(3, 23):
         value = f'C1,{i-2},5 4 4 4 8748537456,768,34'  # Adjust based on the node ID
         node = temperature_nodes[i]
         node.set_value(value)

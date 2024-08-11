@@ -1,0 +1,626 @@
+2024-08-12 01:10:18,939 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:10:23,995 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:10:29,001 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:10:34,007 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:10:39,021 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:10:44,026 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:10:49,039 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:10:54,092 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:10:59,108 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:11:04,125 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:11:09,130 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:11:14,143 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:11:16,254 - app_event - INFO - received train_id from main fetch_temperature=2024_08_11_15_09_58_2000
+2024-08-12 01:11:16,260 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-12 01:11:16,260 - app_event - INFO - received train_id from main fetch_temperature=2024_08_11_15_09_58_2000
+2024-08-12 01:11:16,264 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,265 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,266 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,267 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,268 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,269 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,270 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,270 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,271 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,275 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,276 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,278 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,278 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,280 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,280 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,281 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:11:16,283 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,285 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,286 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,291 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,292 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,293 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,295 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,300 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,302 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,303 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,304 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,307 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,309 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,310 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,312 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,313 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:11:16,314 - app_event - DEBUG - fetch_temperature monitor train()=
+2024-08-12 01:11:21,325 - app_event - DEBUG - fetch_temperature monitor train()=
+2024-08-12 01:11:21,326 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:11:26,338 - app_event - DEBUG - fetch_temperature monitor train()=
+2024-08-12 01:11:26,340 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:11:31,357 - app_event - DEBUG - fetch_temperature monitor train()=
+2024-08-12 01:11:31,358 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:11:36,384 - app_event - DEBUG - fetch_temperature monitor train()=
+2024-08-12 01:11:36,393 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:11:41,400 - app_event - DEBUG - fetch_temperature monitor train()=
+2024-08-12 01:11:41,402 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:12:06,441 - app_event - INFO - received train_id from main fetch_temperature=2024_08_11_15_09_58_2000
+2024-08-12 01:12:06,444 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-12 01:12:06,445 - app_event - INFO - received train_id from main fetch_temperature=2024_08_11_15_09_58_2000
+2024-08-12 01:12:06,447 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,449 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,450 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,451 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,452 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,453 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,454 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,455 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,457 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,457 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,458 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,459 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,460 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,462 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,463 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,464 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:12:06,465 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:12:11,479 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:12:16,484 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:12:21,497 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:12:26,510 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:12:31,522 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:12:36,528 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:12:41,537 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:12:46,544 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:12:51,548 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:12:56,561 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:13:01,573 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:13:06,582 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:13:11,589 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:13:16,606 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:13:21,622 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:13:26,637 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:13:31,647 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:13:36,661 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:13:41,677 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:13:46,679 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:13:51,683 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:13:56,698 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:14:01,702 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:14:06,706 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:14:11,713 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:14:16,728 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:14:21,740 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:14:26,747 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:14:31,761 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:14:36,768 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:14:41,774 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:14:46,780 - app_event - DEBUG - fetch_temperature monitor train()2=
+2024-08-12 01:14:51,808 - app_event - INFO - received train_id from main fetch_temperature=2024_08_11_15_14_14_2000
+2024-08-12 01:14:51,812 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-12 01:14:51,812 - app_event - INFO - received train_id from main fetch_temperature=2024_08_11_15_14_14_2000
+2024-08-12 01:14:51,815 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,816 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,817 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,817 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,819 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,822 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,823 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,824 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,827 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,829 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,829 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,831 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,832 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,833 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,834 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,835 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,836 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,837 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,838 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,839 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,840 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,842 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,843 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,845 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,846 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,847 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,848 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,849 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,850 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,851 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,852 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,854 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,857 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,858 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,861 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,862 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,864 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,865 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,867 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,867 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,868 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,870 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,872 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,875 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,876 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,877 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,878 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,879 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,880 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,880 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,882 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,883 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,883 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,885 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,886 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,888 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,890 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,891 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,892 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,894 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,895 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,897 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,899 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,899 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,900 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,901 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,903 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,905 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,907 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,908 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,910 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,910 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,911 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,912 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,913 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,914 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,915 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,916 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,917 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,918 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,918 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,920 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,922 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,924 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,925 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,926 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,927 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,928 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,929 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,930 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,931 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,933 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,933 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,934 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,935 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,937 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,939 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,940 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,941 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,944 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,945 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,946 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,947 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,948 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,949 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,951 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,952 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,953 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,956 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,958 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,959 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,959 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,960 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,961 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,962 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,963 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,965 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,966 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,966 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,968 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,968 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,970 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,974 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,975 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,975 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,976 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,978 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,979 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,980 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,981 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,982 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,982 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,983 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,984 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,985 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,987 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,989 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,991 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,992 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,993 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,993 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,994 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,995 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,996 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,998 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:51,999 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,000 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,000 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,002 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,002 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,005 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,007 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,008 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,009 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,010 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,011 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,012 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,013 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,014 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,015 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:14:52,016 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,017 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,018 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,019 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,021 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,024 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,024 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,025 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,026 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,027 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,028 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,029 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,030 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,031 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,032 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,033 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 01:14:52,036 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:14:57,039 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:14:57,040 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:02,056 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:02,057 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:07,072 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:07,073 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:12,085 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:12,085 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:17,099 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:17,099 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:22,116 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:22,116 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:27,125 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:27,126 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:32,134 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:15:32,136 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:15:42,148 - app_event - INFO - received train_id from main fetch_temperature=2024_08_11_15_14_14_2000
+2024-08-12 01:15:42,151 - app_event - DEBUG - check_for_new_axle_no data = self.fetch_temperature(train_id)
+2024-08-12 01:15:42,152 - app_event - INFO - received train_id from main fetch_temperature=2024_08_11_15_14_14_2000
+2024-08-12 01:15:42,158 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,159 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,161 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,167 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,173 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,174 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,175 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,177 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,178 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,181 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,182 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,183 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,184 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,186 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,188 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,190 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,191 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,192 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,193 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,194 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,197 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,198 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,199 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,200 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,201 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,203 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,204 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,206 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,208 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,209 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,210 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,210 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,211 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,215 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,217 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,218 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,221 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,223 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,224 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,224 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,225 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,226 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,230 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,236 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,239 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,241 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,243 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,246 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,256 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,258 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,260 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,264 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,267 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,268 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,269 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,271 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,273 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,275 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,276 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,278 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,283 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,287 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,288 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,290 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,292 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,294 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,297 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,301 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,303 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,304 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,307 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,309 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,311 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,312 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,317 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,318 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,320 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,321 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,322 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,324 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,325 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,325 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,327 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,330 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,333 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,335 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,336 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,338 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,339 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,339 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,341 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,342 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,343 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,346 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,349 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,350 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,351 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,353 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,355 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,356 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,357 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,358 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,360 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,363 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,366 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,368 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,369 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,371 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,372 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,373 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,374 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,376 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,377 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,379 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,383 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,385 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,386 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,387 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,388 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,389 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,390 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,392 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,392 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,394 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,396 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,398 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,399 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,403 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,405 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,406 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,407 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,408 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,410 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,413 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,416 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,418 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,420 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,421 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,422 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,424 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,425 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,427 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,428 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,431 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,435 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,437 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,438 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,439 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,441 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,443 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,443 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,445 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,449 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,451 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,452 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,453 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,454 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,456 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,457 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,458 - app_event - DEBUG - calculate_temperatures
+2024-08-12 01:15:42,461 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_14_14_2000
+2024-08-12 01:15:47,474 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:15:52,490 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:15:57,502 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:16:02,506 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:16:07,521 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:16:12,531 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:16:17,537 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:16:22,553 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:16:27,568 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:16:32,583 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:16:37,587 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:16:42,599 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:16:47,604 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:16:52,618 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:16:57,630 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:17:02,641 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:17:07,646 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:17:12,649 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:17:17,654 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:17:22,664 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:17:27,673 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:17:32,686 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:17:37,699 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:17:42,717 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:17:47,719 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:17:52,730 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:17:57,737 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:18:02,747 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:18:07,755 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:18:12,759 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:18:17,767 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:18:22,775 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:18:27,785 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:18:32,792 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:18:37,807 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:18:42,824 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:18:47,828 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:18:52,834 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:18:57,841 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:19:02,850 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:19:07,855 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:19:12,872 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:19:17,882 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:19:22,898 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:19:27,900 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:19:32,909 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:19:37,913 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:19:42,918 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:19:47,922 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:19:52,937 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:19:57,954 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:20:02,964 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:20:07,978 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:20:12,988 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:20:18,002 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:20:23,004 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:20:28,009 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:20:33,013 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:20:38,020 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:20:43,028 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:20:48,035 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:20:53,043 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:20:58,052 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:21:03,060 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:21:08,070 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:21:13,074 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:21:18,088 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:21:23,100 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:21:28,115 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:21:33,133 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:21:38,143 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:21:43,150 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:21:48,167 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:21:53,177 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:21:58,184 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:22:03,192 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:22:08,202 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:22:13,205 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:22:18,222 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:22:23,239 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:22:28,256 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:22:33,273 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:22:38,284 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:22:43,292 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:22:48,298 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:22:53,305 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:22:58,315 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:23:03,321 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:23:08,331 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:23:13,340 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:23:18,354 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:23:23,371 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:23:28,373 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:23:33,381 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:23:38,388 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:23:43,400 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:23:48,405 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:23:53,422 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:23:58,430 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:24:03,445 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:24:08,453 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:24:13,464 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:24:18,466 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:24:23,476 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:24:28,481 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:24:33,483 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:24:38,496 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:24:43,506 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:24:48,513 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:24:53,514 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:24:58,519 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:25:03,526 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:25:08,527 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:25:13,543 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:25:18,550 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:25:23,560 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:25:28,569 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:25:33,587 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:25:38,594 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:25:43,600 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:25:48,608 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:25:53,614 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:25:58,622 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:26:03,625 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:26:08,637 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:26:13,645 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:26:18,658 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:26:23,670 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:26:28,688 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:26:33,695 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:26:38,698 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:26:43,705 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:26:48,718 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:26:53,724 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:26:58,727 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:27:03,738 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:27:08,750 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:27:13,766 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:27:18,775 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:27:23,777 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:27:28,785 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:27:33,790 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:27:38,791 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:27:43,807 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:27:48,823 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:27:53,838 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:27:58,844 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:28:03,847 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:28:08,855 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:28:13,860 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:28:18,866 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:28:23,874 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:28:28,889 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:28:33,906 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:28:38,909 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
+2024-08-12 01:28:43,924 - app_event - DEBUG - fetch_temperature monitor train2024_08_11_15_09_58_2000
