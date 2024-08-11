@@ -1,172 +1,106 @@
-2024-08-12 03:53:31,761 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:53:32,557 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:53:32,558 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:53:32,559 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:53:32,560 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:53:37,067 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:53:37,568 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:53:37,606 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:53:37,641 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:53:37,656 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:53:42,435 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:53:42,667 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:53:42,669 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:53:42,671 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:53:42,672 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:53:47,537 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:53:47,677 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:53:47,681 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:53:47,682 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:53:47,682 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:53:52,699 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:53:52,700 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:53:52,700 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:53:52,701 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:53:52,807 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:53:57,703 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:53:57,704 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:53:57,705 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:53:57,705 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:53:58,343 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:54:02,726 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:02,727 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:02,728 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:02,729 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:03,457 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:54:07,735 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:07,736 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:07,737 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:07,737 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:08,649 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:54:12,754 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:12,755 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:12,756 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:12,756 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:13,723 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:54:17,772 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:17,773 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:17,774 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:17,774 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:18,995 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:54:22,785 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:22,786 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:22,787 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:22,787 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:24,148 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:54:27,807 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:27,808 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:27,809 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:27,810 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:29,475 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:54:32,827 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:32,830 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:32,831 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:32,831 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:34,732 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:54:37,843 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:37,845 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:37,846 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:37,848 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:39,725 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:54:42,859 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:42,860 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:42,860 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:42,861 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:44,722 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:54:47,875 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:47,877 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:47,880 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:47,881 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:49,552 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:54:52,888 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:52,889 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:52,891 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:52,892 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:54,671 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:54:57,906 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:57,907 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:54:57,908 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:54:57,909 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:00,655 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:55:02,943 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:02,999 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:03,025 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:03,082 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:08,167 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:08,171 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:08,178 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:08,188 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:08,641 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:55:13,267 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:13,353 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:13,364 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:13,372 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:17,109 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:55:18,414 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:18,423 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:18,427 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:18,430 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:23,311 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:55:23,436 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:23,437 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:23,437 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:23,438 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:28,471 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:28,681 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:28,789 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:28,792 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:28,918 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:55:33,947 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:33,955 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:33,984 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:33,989 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:36,060 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:55:39,006 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:39,009 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:39,009 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:39,009 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:41,297 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:55:44,088 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:44,130 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000
-2024-08-12 03:55:44,132 - app_event - DEBUG - processed_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:44,134 - app_event - DEBUG - known_axle_numbers{'7', '30', '22', '14', '16', '19', '25', '10', '26', '8', '3', '11', '20', '15', '23', '2', '17', '29', '24', '27', '9', '28', '4', '5', '13', '18', '21', '6', '12'}
-2024-08-12 03:55:46,460 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:55:51,933 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:55:57,130 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:56:03,643 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:56:15,421 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:56:26,327 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:56:31,881 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:56:37,291 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:56:42,478 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:56:47,690 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:56:53,211 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:56:58,292 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:57:03,424 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:57:08,746 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:57:13,613 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:57:18,822 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:57:24,056 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:57:29,088 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:57:34,231 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:57:39,317 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:57:44,842 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:57:49,748 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:57:55,292 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:58:00,555 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:58:06,147 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:58:11,430 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:58:16,914 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:58:21,984 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:58:27,268 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:58:32,889 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:58:37,892 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:58:43,123 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:58:48,195 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:58:53,205 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:58:58,156 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:59:03,634 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:59:09,326 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:59:14,747 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:59:20,028 - app_event - INFO - Train_Start_NodeId value: True
-2024-08-12 03:59:25,267 - app_event - INFO - Train_Start_NodeId value: True
+2024-08-12 04:36:40,299 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,309 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,314 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,317 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,320 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,322 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,326 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,330 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,332 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,335 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,337 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,340 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,343 - app_event - DEBUG - calculate_temperatures
+2024-08-12 04:36:40,347 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,347 - app_event - DEBUG - processed_axle_numbers{'2'}
+2024-08-12 04:36:40,348 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,349 - app_event - DEBUG - processed_axle_numbers{'2', '3'}
+2024-08-12 04:36:40,351 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,351 - app_event - DEBUG - processed_axle_numbers{'4', '2', '3'}
+2024-08-12 04:36:40,352 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,352 - app_event - DEBUG - processed_axle_numbers{'4', '2', '5', '3'}
+2024-08-12 04:36:40,354 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,354 - app_event - DEBUG - processed_axle_numbers{'6', '2', '4', '5', '3'}
+2024-08-12 04:36:40,355 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,356 - app_event - DEBUG - processed_axle_numbers{'6', '2', '7', '4', '5', '3'}
+2024-08-12 04:36:40,356 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,358 - app_event - DEBUG - processed_axle_numbers{'6', '2', '7', '4', '8', '5', '3'}
+2024-08-12 04:36:40,360 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,362 - app_event - DEBUG - processed_axle_numbers{'6', '2', '7', '4', '8', '9', '5', '3'}
+2024-08-12 04:36:40,364 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,364 - app_event - DEBUG - processed_axle_numbers{'6', '2', '7', '10', '4', '8', '9', '5', '3'}
+2024-08-12 04:36:40,366 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,367 - app_event - DEBUG - processed_axle_numbers{'6', '2', '7', '10', '4', '8', '9', '11', '5', '3'}
+2024-08-12 04:36:40,368 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,368 - app_event - DEBUG - processed_axle_numbers{'6', '2', '7', '10', '4', '12', '8', '9', '11', '5', '3'}
+2024-08-12 04:36:40,369 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,370 - app_event - DEBUG - processed_axle_numbers{'6', '2', '13', '7', '10', '4', '12', '8', '9', '11', '5', '3'}
+2024-08-12 04:36:40,371 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,372 - app_event - DEBUG - processed_axle_numbers{'6', '2', '13', '7', '10', '14', '4', '12', '8', '9', '11', '5', '3'}
+2024-08-12 04:36:40,373 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,373 - app_event - DEBUG - processed_axle_numbers{'6', '2', '13', '7', '10', '14', '4', '12', '8', '15', '9', '11', '5', '3'}
+2024-08-12 04:36:40,376 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,377 - app_event - DEBUG - processed_axle_numbers{'6', '2', '13', '7', '10', '14', '4', '12', '16', '8', '15', '9', '11', '5', '3'}
+2024-08-12 04:36:40,378 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,379 - app_event - DEBUG - processed_axle_numbers{'6', '2', '13', '7', '10', '14', '17', '4', '12', '16', '8', '15', '9', '11', '5', '3'}
+2024-08-12 04:36:40,381 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,382 - app_event - DEBUG - processed_axle_numbers{'6', '2', '13', '7', '10', '14', '17', '4', '18', '12', '16', '8', '15', '9', '11', '5', '3'}
+2024-08-12 04:36:40,384 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,385 - app_event - DEBUG - processed_axle_numbers{'6', '2', '13', '7', '10', '14', '17', '4', '18', '12', '16', '8', '19', '15', '9', '11', '5', '3'}
+2024-08-12 04:36:40,386 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,386 - app_event - DEBUG - processed_axle_numbers{'2', '13', '14', '15', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '20', '16', '11', '7', '8'}
+2024-08-12 04:36:40,387 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,388 - app_event - DEBUG - processed_axle_numbers{'2', '13', '14', '15', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '7', '8'}
+2024-08-12 04:36:40,389 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,390 - app_event - DEBUG - processed_axle_numbers{'2', '13', '14', '15', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '7', '8'}
+2024-08-12 04:36:40,392 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,392 - app_event - DEBUG - processed_axle_numbers{'2', '13', '14', '15', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '7', '8'}
+2024-08-12 04:36:40,395 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,396 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '7', '8'}
+2024-08-12 04:36:40,397 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,398 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '25', '7', '8'}
+2024-08-12 04:36:40,399 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,399 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '25', '7', '8', '26'}
+2024-08-12 04:36:40,401 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,401 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '27', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '25', '7', '8', '26'}
+2024-08-12 04:36:40,403 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,403 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '27', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '25', '7', '8', '26', '28'}
+2024-08-12 04:36:40,404 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,404 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '27', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '25', '29', '7', '8', '26', '28'}
+2024-08-12 04:36:40,406 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,407 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '30', '27', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '25', '29', '7', '8', '26', '28'}
+2024-08-12 04:36:40,410 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,410 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '30', '27', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '25', '29', '7', '8', '26', '28', '31'}
+2024-08-12 04:36:40,412 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,413 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '30', '27', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '25', '29', '32', '7', '8', '26', '28', '31'}
+2024-08-12 04:36:40,414 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,415 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '30', '27', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '8', '26', '28', '31'}
+2024-08-12 04:36:40,416 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,417 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '30', '34', '27', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '8', '26', '28', '31'}
+2024-08-12 04:36:40,419 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,419 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '30', '34', '27', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '8', '26', '28', '31'}
+2024-08-12 04:36:40,420 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,421 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '30', '34', '27', '10', '17', '4', '18', '12', '19', '9', '5', '3', '6', '21', '36', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '8', '26', '28', '31'}
+2024-08-12 04:36:40,422 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,422 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '30', '34', '27', '10', '17', '4', '18', '12', '37', '19', '9', '5', '3', '6', '21', '36', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '8', '26', '28', '31'}
+2024-08-12 04:36:40,425 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,427 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '15', '30', '34', '27', '10', '17', '4', '18', '12', '37', '19', '9', '5', '3', '6', '38', '21', '36', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '8', '26', '28', '31'}
+2024-08-12 04:36:40,429 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,429 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '39', '15', '30', '34', '27', '10', '17', '4', '18', '12', '37', '19', '9', '5', '3', '6', '38', '21', '36', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '8', '26', '28', '31'}
+2024-08-12 04:36:40,431 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,432 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '39', '15', '30', '34', '40', '27', '10', '17', '4', '18', '12', '37', '19', '9', '5', '3', '6', '38', '21', '36', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '8', '26', '28', '31'}
+2024-08-12 04:36:40,433 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,434 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '39', '15', '30', '34', '40', '27', '10', '17', '4', '18', '12', '37', '19', '9', '5', '3', '6', '38', '41', '21', '36', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '8', '26', '28', '31'}
+2024-08-12 04:36:40,435 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,435 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '39', '15', '30', '34', '40', '27', '10', '17', '4', '42', '18', '12', '37', '19', '9', '5', '3', '6', '38', '41', '21', '36', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '8', '26', '28', '31'}
+2024-08-12 04:36:40,437 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,437 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '39', '15', '30', '34', '40', '27', '10', '17', '4', '42', '18', '12', '37', '19', '9', '5', '3', '6', '38', '41', '21', '36', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '8', '26', '28', '31', '43'}
+2024-08-12 04:36:40,439 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,439 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '39', '15', '30', '34', '40', '27', '10', '17', '4', '42', '18', '12', '37', '19', '9', '5', '3', '44', '6', '38', '41', '21', '36', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '8', '26', '28', '31', '43'}
+2024-08-12 04:36:40,440 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,441 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '39', '15', '30', '34', '40', '27', '10', '17', '4', '42', '18', '12', '37', '19', '9', '5', '3', '44', '6', '38', '41', '21', '36', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '45', '8', '26', '28', '31', '43'}
+2024-08-12 04:36:40,445 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,446 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '39', '46', '15', '30', '34', '40', '27', '10', '17', '4', '42', '18', '12', '37', '19', '9', '5', '3', '44', '6', '38', '41', '21', '36', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '45', '8', '26', '28', '31', '43'}
+2024-08-12 04:36:40,447 - app_event - DEBUG - insert_temperature_calculations
+2024-08-12 04:36:40,448 - app_event - DEBUG - processed_axle_numbers{'24', '2', '13', '14', '39', '47', '46', '15', '30', '34', '40', '27', '10', '17', '4', '42', '18', '12', '37', '19', '9', '5', '3', '44', '6', '38', '41', '21', '36', '20', '16', '11', '22', '23', '25', '29', '32', '33', '7', '35', '45', '8', '26', '28', '31', '43'}
+2024-08-12 04:36:40,451 - app_event - DEBUG - fetch_temperature monitor train2024_08_12_03_52_51_2000

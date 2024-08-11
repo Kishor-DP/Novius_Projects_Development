@@ -6,7 +6,6 @@ import logging
 import EventLogger2
 import json
 from json.decoder import JSONDecodeError
-from calibration import calibration_formula
 # Configure logging
 logging.basicConfig(
     level=logging.DEBUG,  # Set your application's logging level
@@ -186,27 +185,13 @@ class TemperatureAnalysis:
         self.db = db
 
     def calculate_temperatures(self, data):
-        
         calculations = []
         for row in data:
             t1 = row[3]
             t2 = row[4]
-            #T1 = t1 - 5
-            #T2 = t2 + 5
-            calibration_data = calibration_formula()
-            # Iterate over calibration data and calculate actual temperatures
-            for slopes_offsets in calibration_data:
-                slope1, offset1, slope2, offset2, slope3, offset3, slope4, offset4 = slopes_offsets
-            # Calculating actual temperatures
-            T1 = (t1 - offset1) / slope1
-            T2 = (t2 - offset2) / slope2
-            #t3 = (t1 - offset3) / slope3
-            #t4 = (t2 - offset4) / slope4
+            T1 = t1 - 5
+            T2 = t2 + 5
             calculations.append((row[0], row[1], T1, T2))
-            print(f'Actual Temperature T1: {T1:.2f}°C')
-            print(f'Actual Temperature T2: {T2:.2f}°C')
-            #print(f'Actual Temperature T3: {t3:.2f}°C')
-            #print(f'Actual Temperature T4: {t4:.2f}°C')
             logger.debug("calculations done.")
             #print(f"TrainId: {row[0]}, Axle_No: {row[1]}, {T1}, {T2}, Timestamp: {row[2]}, System_Timestamp: {row[5]}")
             EventLogger2.app_event.debug("calculate_temperatures")
