@@ -82,7 +82,7 @@ class OpcUaDataReceiver:
         print("Failed to write JSON file after maximum retries")
 
     def receive_data(self):
-        self.nodes = [self.client.get_node(ua.NodeId(i, 2)) for i in self.node_ids]
+        self.nodes = [self.client.get_node(ua.NodeId(i, 4)) for i in self.node_ids]
 
         connection_string = (
             r"DRIVER={SQL Server};"
@@ -104,7 +104,7 @@ class OpcUaDataReceiver:
         VALUES (?, ?, ?, ?, ?, ?)
         """
 
-        node = self.client.get_node(ua.NodeId(self.train_start_nodeid, 2))
+        node = self.client.get_node(ua.NodeId(self.train_start_nodeid, 4))
         try:
             train_start_value = node.get_value()
             OpcUaDataReceiver.write_TrainStart_Tojson(train_start_value)
@@ -123,6 +123,7 @@ class OpcUaDataReceiver:
         elif not train_start_value and self.train_active:
             # TrainStart became False, reset the TrainId for next activation
             self.train_active = False
+            self.last_inserted_count.clear()  # Clear the dictionary to reset insertion times
             logger.info(f"TrainStart is False, resetting TrainId.")
 
         for node in self.nodes:
@@ -144,7 +145,7 @@ class OpcUaDataReceiver:
                         last_insertion_time = self.last_inserted_count.get(count)
                         
                         if self.train_active:
-                            if last_insertion_time is None or (current_time - last_insertion_time) > timedelta(minutes=1):
+                            if last_insertion_time is None or (current_time - last_insertion_time) > timedelta(minutes=10):
                                 try:
                                     System_Timestamp = datetime.now()
                                     data_to_insert = (self.current_train_id, count, time_stamp, t1, t2, System_Timestamp)

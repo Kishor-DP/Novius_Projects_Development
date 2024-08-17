@@ -4,5 +4,10 @@
 
 /****** Script for SelectTopNRows command from SSMS  ******/
 delete
+  FROM [NVS_HAHW_V2].[dbo].[Temperature]
+  DBCC CHECKIDENT ('[NVS_HAHW_V2].[dbo].[Temperature]', RESEED, 0);
+
+
+delete
   FROM [NVS_HAHW_V2].[dbo].[tblTemperatureLog]
   DBCC CHECKIDENT ('[NVS_HAHW_V2].[dbo].[tblTemperatureLog]', RESEED, 0);

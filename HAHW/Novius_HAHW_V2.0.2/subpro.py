@@ -2,7 +2,7 @@ from subprocess import Popen
 import threading
 import time
 def openpyfile():
-    Popen(["python", "simulateserver.py"])
+    #Popen(["python", "simulateserver.py"])
     time.sleep(2)
     Popen(["python", "main.py"])
     time.sleep(2)

@@ -16,9 +16,9 @@ logger = logging.getLogger(__name__)
 
 def monitor_train_data():
     # OPC UA Server Configuration
-    server_url = "opc.tcp://127.0.0.1:4841/freeopcua/server/"
-    node_ids = range(3, 204)  # Range of node IDs to receive data from
-    train_start_nodeid = 1  # Replace with your Train Start Node ID
+    server_url = "opc.tcp://192.168.1.2:4840"
+    node_ids = range(4, 204)  # Range of node IDs to receive data from
+    train_start_nodeid = 829  # Replace with your Train Start Node ID
     interval = 1  # Interval in seconds
     
     # OPC UA Node Scanner Setup

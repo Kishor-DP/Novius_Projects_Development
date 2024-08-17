@@ -1,4 +1,4 @@
-#Fetch_temperaturetbl.py
+#Insert_Into_tblTemperatureLog.py
 import pyodbc
 from datetime import datetime
 import time
@@ -100,16 +100,38 @@ class TemperatureDatabase:
         # Reset processed axles if a new train ID is detected
         if train_id != self.current_train_id:
             self.processed_axle_numbers.clear()
-            train_id =self.read_TrainId_Fromjson()
-
-        data = self.fetch_temperature(train_id)
-        EventLogger2.app_event.debug("check_for_new_axle_no data = self.fetch_temperature(train_id)")
-        new_axles = [row for row in data if row[1] not in self.known_axle_numbers]
+            self.current_train_id = train_id  # Update current_train_id to the new one
         
+        # Fetch the latest temperature data for the given train_id
+        data = self.fetch_temperature(train_id)
+        EventLogger2.app_event.debug(f"Fetched temperature data: {data}")
+
+        # Identify new axles not present in known_axle_numbers
+        new_axles = [row for row in data if row[1] not in self.known_axle_numbers]
+        EventLogger2.app_event.debug(f"Identified new axles: {new_axles}")
+
+        # Add new axles to known_axle_numbers and process them
         for row in new_axles:
-            self.known_axle_numbers.add(row[1])
-            #print(f"New Axle Detected - TrainId: {row[0]}, Axle_No: {row[1]}, Timestamp: {row[2]}, T1: {row[3]}, T2: {row[4]}, System_Timestamp: {row[5]}")
-            
+            axle_no = row[1]
+            if axle_no not in self.known_axle_numbers:
+                self.known_axle_numbers.add(axle_no)
+                EventLogger2.app_event.debug(f"Adding axle number {axle_no} to known_axle_numbers")
+                print(f"New Axle Detected - TrainId: {row[0]}, Axle_No: {axle_no}, Timestamp: {row[2]}, T1: {row[3]}, T2: {row[4]}, System_Timestamp: {row[5]}")
+                
+                
+                # Perform temperature calculations for the new axle
+                db = TemperatureDatabase()
+                analysis = TemperatureAnalysis(db)
+                data = self.fetch_temperature(train_id)
+                new_calculations = analysis.calculate_temperatures(data)
+                self.insert_temperature_calculations(new_calculations)
+                # After successful insertion, mark the axle as processed
+                self.processed_axle_numbers.add(axle_no)
+
+        # Debugging: print updated known_axle_numbers and processed_axle_numbers
+        EventLogger2.app_event.debug(f"Updated known_axle_numbers: {self.known_axle_numbers}")
+        EventLogger2.app_event.debug(f"Processed axle numbers: {self.processed_axle_numbers}")
+
         return new_axles
     
     def monitor_train(self, train_id, analysis, interval=5, analysis_interval=5):
@@ -124,7 +146,7 @@ class TemperatureDatabase:
             if train_start_value and not self.train_active:
                 # TrainStart became True, start processing
                 self.train_active = True
-                
+                self.insert_into_tblTrainTransaction(train_id)
                 new_axles = self.check_for_new_axle_no(train_id)
                 data = self.fetch_temperature(train_id)
                 new_calculations = analysis.calculate_temperatures(data)
@@ -134,6 +156,7 @@ class TemperatureDatabase:
             
             elif not train_start_value and self.train_active:
                 # TrainStart became False, reset the TrainId for next activation
+
                 self.train_active = False
                 self.known_axle_numbers.clear()
                 self.processed_axle_numbers.clear()
@@ -141,19 +164,27 @@ class TemperatureDatabase:
                 continue  # Skip the rest of the loop to avoid processing
 
             if self.train_active:
-                #self.insert_temperature_calculations(new_calculations)
+                
                 if new_axles:
+                    data = self.fetch_temperature(train_id)
                     self.insert_temperature_calculations(new_calculations)
                     EventLogger2.app_event.debug(f"fetch_temperature monitor train{self.current_train_id}")
                     
                 # Perform analysis periodically
                 if time.time() - last_analysis_time >= analysis_interval:
+                    new_axles = self.check_for_new_axle_no(train_id)
+                    EventLogger2.app_event.debug(f"last_analysis_time{last_analysis_time}")
+                    EventLogger2.app_event.debug(f"new axle detected{new_axles}")
+
                     analysis.get_total_axles(data)
+                    EventLogger2.app_event.debug(f"Perform analysis periodically{data}")
                     last_analysis_time = time.time()
                     
                     EventLogger2.app_event.debug(f"fetch_temperature monitor train{self.current_train_id}")
                     EventLogger2.app_event.debug(f"processed_axle_numbers{self.processed_axle_numbers}")
                     EventLogger2.app_event.debug(f"known_axle_numbers{self.known_axle_numbers}")
+                    
+                    EventLogger2.app_event.debug(f"check_for_new_axle_no data = self.fetch_temperature{data}")
             time.sleep(interval)
 
     def insert_temperature_calculations(self, calculations):
@@ -176,6 +207,20 @@ class TemperatureDatabase:
                 self.connection.commit()
         except pyodbc.Error as e:
             print(f"Error inserting data: {e}")
+
+    def insert_into_tblTrainTransaction(self,tblTrainTransaction):
+        self.connection.cursor()
+        print ("add tblTrainTransaction entry here....................")
+        query = """
+        INSERT INTO [NVS_HAHW_V2].[dbo].[tblTrainTransaction] (intTrainId)
+        VALUES (?)
+        """
+        try:
+            with self.connection.cursor() as cursor:
+                cursor.execute(query,tblTrainTransaction)
+        except pyodbc.Error as e:
+            print(f"Error inserting data: {e}")
+
 
     def close_connection(self):
         if self.connection:
@@ -218,6 +263,7 @@ class TemperatureAnalysis:
         print(f"Total number of unique Axle_Nos: {total_axles}")
         return total_axles
 
+    
 
 def main():
     db = TemperatureDatabase()
