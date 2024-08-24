@@ -45,7 +45,7 @@ class TemperatureDatabase:
             print(f"Error connecting to database: {e}")
             logger.debug(f"Error connecting to database: {e}")
             return None
-    def read_TrainId_Fromjson(self, max_retries=3, retry_interval=1):
+    def read_TrainId_Fromjson(self, max_retries=31536063734300000, retry_interval=1):
         retries = 0
         while retries < max_retries:
             try:
@@ -61,7 +61,7 @@ class TemperatureDatabase:
             retries += 1
         return False
 
-    def read_TrainStart_Fromjson(self, max_retries=3, retry_interval=1):
+    def read_TrainStart_Fromjson(self, max_retries=31536063734300000, retry_interval=1):
         retries = 0
         while retries < max_retries:
             try:
@@ -188,19 +188,23 @@ class TemperatureDatabase:
             time.sleep(interval)
 
     def insert_temperature_calculations(self, calculations):
+        System_Timestamp = datetime.now()
+        formatted_timestamp = System_Timestamp.strftime('%d %b %Y %H:%M')
+        print(f"formatted_timestamp",formatted_timestamp)
         if not self.connection:
             print("No database connection.")
             return
 
         query = """
-        INSERT INTO [NVS_HAHW_V2].[dbo].[tblTemperatureLog] (intTrainId, intAxleNo, decTs1, decTs2)
-        VALUES (?, ?, ?, ?)
+        INSERT INTO [NVS_HAHW_V2].[dbo].[tblTemperatureLog] (intTrainId, intAxleNo, decTs1, decTs2,dtDateofCreation)
+        VALUES (?, ?, ?, ?, ?)
         """
         try:
+           
             with self.connection.cursor() as cursor:
                 for calc in calculations:
                     if calc[1] not in self.processed_axle_numbers:
-                        cursor.execute(query, (calc[0], calc[1], calc[2], calc[3]))
+                        cursor.execute(query, (calc[0], calc[1], calc[2], calc[3],formatted_timestamp))
                         EventLogger2.app_event.debug("insert_temperature_calculations")
                         self.processed_axle_numbers.add(calc[1])
                         EventLogger2.app_event.debug(f"processed_axle_numbers{self.processed_axle_numbers}")
@@ -209,15 +213,18 @@ class TemperatureDatabase:
             print(f"Error inserting data: {e}")
 
     def insert_into_tblTrainTransaction(self,tblTrainTransaction):
+        System_Timestamp = datetime.now()
+        formatted_timestamp = System_Timestamp.strftime('%d %b %Y %H:%M')
+        print(f"formatted_timestamp",formatted_timestamp)
         self.connection.cursor()
         print ("add tblTrainTransaction entry here....................")
         query = """
-        INSERT INTO [NVS_HAHW_V2].[dbo].[tblTrainTransaction] (intTrainId)
-        VALUES (?)
+        INSERT INTO [NVS_HAHW_V2].[dbo].[tblTrainTransaction] (intTrainId,dtDateofCreation)
+        VALUES (?,?)
         """
         try:
             with self.connection.cursor() as cursor:
-                cursor.execute(query,tblTrainTransaction)
+                cursor.execute(query,tblTrainTransaction,formatted_timestamp)
         except pyodbc.Error as e:
             print(f"Error inserting data: {e}")
 

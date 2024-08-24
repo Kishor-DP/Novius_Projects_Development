@@ -148,7 +148,8 @@ class OpcUaDataReceiver:
                             if last_insertion_time is None or (current_time - last_insertion_time) > timedelta(minutes=10):
                                 try:
                                     System_Timestamp = datetime.now()
-                                    data_to_insert = (self.current_train_id, count, time_stamp, t1, t2, System_Timestamp)
+                                    formatted_timestamp = System_Timestamp.strftime('%d %b %Y %H:%M')
+                                    data_to_insert = (self.current_train_id, count, time_stamp, t1, t2, formatted_timestamp)
                                     cursor.execute(insert_query, data_to_insert)
                                     conn.commit()
                                     self.last_inserted_count[count] = current_time
