@@ -15,3 +15,7 @@ delete
 delete
   FROM [NVS_HAHW_V2].[dbo].[Proxy_s1]
   DBCC CHECKIDENT ('[NVS_HAHW_V2].[dbo].[Proxy_s1]', RESEED, 0);
+
+
+ALTER TABLE [dbo].[distance]
+ADD [intDBAxleCount] [int] IDENTITY(1,1) NOT NULL;

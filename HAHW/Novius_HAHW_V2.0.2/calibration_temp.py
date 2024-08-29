@@ -94,7 +94,7 @@ if __name__ == "__main__":
     # Database connection string
     conn_str = (
         "DRIVER={SQL Server};"
-        "SERVER=4MVDUGL\SQLEXPRESS;"
+        "SERVER=4MVDUGL\KISHOR;"
         "DATABASE=HBDDB;"
         "Trusted_Connection=yes;"
     )

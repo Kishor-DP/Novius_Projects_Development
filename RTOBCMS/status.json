@@ -1,0 +1,7 @@
+{
+    "gateway_id": "de6f74d2-b917-44b9-b0cf-e5e61c9ea819",
+    "sensor_id": "device",
+    "location": "XYZ",
+    "status": "{\"deduplicationId\":\"8a0bcc7e-5f6c-42f0-a881-a9e4fc145a36\",\"time\":\"2024-08-26T08:34:03.650190+00:00\",\"deviceInfo\":{\"tenantId\":\"52f14cd4-c6f1-4fbd-8f87-4025e1d49242\",\"tenantName\":\"ChirpStack\",\"applicationId\":\"de6f74d2-b917-44b9-b0cf-e5e61c9ea819\",\"applicationName\":\"Test\",\"deviceProfileId\":\"2733b766-fb6b-4869-80a0-8ddcb36dcdda\",\"deviceProfileName\":\"test profile\",\"deviceName\":\"dev2\",\"devEui\":\"0080e1150536aeca\",\"deviceClassEnabled\":\"CLASS_C\",\"tags\":{}},\"devAddr\":\"00e869e7\",\"adr\":true,\"dr\":5,\"fCnt\":504,\"fPort\":2,\"confirmed\":false,\"data\":\"UAAAMAAwADAAMAAwADAAMAAwUQ==\",\"object\":{\"mydata\":\"50000030003000300030003000300030003051\"},\"rxInfo\":[{\"gatewayId\":\"a84041ffff27ca3c\",\"uplinkId\":23630,\"gwTime\":\"2024-08-26T08:34:03.650190+00:00\",\"nsTime\":\"2024-08-26T08:34:05.865465600+00:00\",\"rssi\":-49,\"snr\":14.2,\"channel\":1,\"location\":{\"latitude\":18.654434,\"longitude\":73.769264},\"context\":\"Sp+PaA==\",\"metadata\":{\"region_config_id\":\"in865\",\"region_common_name\":\"IN865\"},\"crcStatus\":\"CRC_OK\"}],\"txInfo\":{\"frequency\":865402500,\"modulation\":{\"lora\":{\"bandwidth\":125000,\"spreadingFactor\":7,\"codeRate\":\"CR_4_5\"}}}}",
+    "timestamp": "2024-08-26T14:04:06.108204"
+}

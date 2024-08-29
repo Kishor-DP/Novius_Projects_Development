@@ -3,7 +3,7 @@ def calibration_formula():
     # Database connection details
     conn_str = (
         r"DRIVER={SQL Server};"
-        r"SERVER=4MVDUGL\SQLEXPRESS;"
+        r"SERVER=4MVDUGL\KISHOR;"
         r"DATABASE=NVS_HAHW_V2;"
         r"Trusted_Connection=yes;"
     )

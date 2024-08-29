@@ -1,5 +1,24 @@
 [
     {
+        "intTempLogId": 354885,
+        "intTrainId": 1,
+        "intBogiTypeId": 1,
+        "intAxleNo": 1,
+        "NvcharCoachNo": "A1",
+        "IntCoachPosition": 1,
+        "decTs1": 20.0,
+        "decTs2": 40.0,
+        "decTs3": 0.0,
+        "decTs4": 156.0,
+        "decTs5": 90.0,
+        "decTs6": 100.0,
+        "decAxel_Speed": 0.0,
+        "nvcharDescription": "Default Description",
+        "dtDateofCreation": "2024-08-12 04:04:09",
+        "dtDateofModification": "2024-08-12 04:04:09",
+        "ynDeleted": false
+    },
+    {
         "intTempLogId": 354884,
         "intTrainId": 1,
         "intBogiTypeId": 1,

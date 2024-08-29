@@ -21,7 +21,7 @@ class TrainSpeedDistanceCalculator:
         self.initial_distance = initial_distance
         self.conn_str = (
             "DRIVER={SQL Server};"
-            "SERVER=4MVDUGL\\SQLEXPRESS;"
+            "SERVER=4MVDUGL\\KISHOR;"
             "DATABASE=NVS_HAHW_V2;"
             "Trusted_Connection=yes;"
         )
@@ -81,7 +81,13 @@ class TrainSpeedDistanceCalculator:
         except (ValueError, IndexError) as e:
             print(f"Error converting timestamp: {timestamp}. Exception: {e}")
             return None
-        
+    def insert_into_tbldistance(self, TrainId,distance_to_insert):
+        with pyodbc.connect(self.conn_str) as conn:
+            cursor = conn.cursor()
+            query = "INSERT INTO [dbo].[distance] ([TrainId],[distance] ) VALUES (?,?)"
+            cursor.execute(query, TrainId,distance_to_insert)
+            conn.commit()    
+
     def insert_into_tblSpeedDistance(self, TrainId,speed_result,c1_timestamp,s1_timestamp,coach_type):
         with pyodbc.connect(self.conn_str) as conn:
             cursor = conn.cursor()
@@ -166,7 +172,8 @@ class TrainSpeedDistanceCalculator:
                     distance = speed_kmph1 / 3.6 * time_diff
                     distances.append(distance)
                     print(f"Distance between Axle {i+1} and Axle {i+2}: {distance:.2f} meters")
-
+                    distance_to_insert = f"Distance between Axle {i+1} and Axle {i+2}: {distance:.2f} meters"
+                    self.insert_into_tbldistance(TrainId,distance_to_insert)
                 if len(distances) >= 2:
                     distance_1_2 = distances[0]
                     distance_2_3 = distances[1]
@@ -215,7 +222,7 @@ class TrainSpeedDistanceCalculator:
                     
                     processing_needed = True
                 
-            print("interval........10....sec")
+            
             # Wait before the next check
             time.sleep(check_interval)
 if __name__ == "__main__":

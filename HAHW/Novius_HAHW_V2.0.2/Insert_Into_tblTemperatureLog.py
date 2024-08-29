@@ -22,7 +22,9 @@ logger = logging.getLogger(__name__)
 # Set logging level for opcua library to WARNING to suppress debug logs
 logging.getLogger('opcua').setLevel(logging.WARNING)
 class TemperatureDatabase:
-    
+    AlarmTempratureSetting = None
+    WarningTempratureSetting = None
+
     def __init__(self):
         self.connection = self.connect_to_database()
         self.known_axle_numbers = set()
@@ -34,7 +36,7 @@ class TemperatureDatabase:
     def connect_to_database(self):
         connection_string = (
             r"DRIVER={SQL Server};"
-            r"SERVER=4MVDUGL\SQLEXPRESS;"
+            r"SERVER=4MVDUGL\KISHOR;"
             r"DATABASE=NVS_HAHW_V2;"
             r"Trusted_Connection=yes;"
         )
